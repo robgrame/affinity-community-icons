@@ -1,4 +1,4 @@
-# Affinity Community Icons
+# Community Icons
 
 Original minimalist vector icons for device management, networking, cloud,
 AI, security, and document sections. Created in Affinity Studio and shared
@@ -18,7 +18,7 @@ than additional distinct concepts.
 Download the repository ZIP from **Code > Download ZIP**, or clone it:
 
 ```powershell
-git clone https://github.com/robgrame/affinity-community-icons.git
+git clone https://github.com/robgrame/community-icons.git
 ```
 
 The native `.af` documents are stored directly in Git: no Git LFS
