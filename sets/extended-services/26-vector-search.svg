@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-960)">
+        <rect id="AI---Vector-search" affinity:id="AI - Vector search" x="320" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="AI---Vector-search1" affinity:id="AI - Vector search">
+            <circle id="Vector-index-0" affinity:id="Vector index 0" cx="386" cy="1037" r="7" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-index-1" affinity:id="Vector index 1" cx="431" cy="1037" r="7" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-index-2" affinity:id="Vector index 2" cx="476" cy="1037" r="7" style="fill:rgb(0,120,212);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-index-3" affinity:id="Vector index 3" cx="386" cy="1090" r="7" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-index-4" affinity:id="Vector index 4" cx="431" cy="1090" r="7" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Similarity-search-lens" affinity:id="Similarity search lens" cx="475" cy="1105" r="36" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Vector-search-handle" affinity:id="Vector search handle" d="M502,1131L527,1157" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Similarity-marks" affinity:id="Similarity marks" d="M461,1105L471,1116L491,1092" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-960)">
+        <rect id="AI---Model-evaluation" affinity:id="AI - Model evaluation" x="960" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="AI---Model-evaluation1" affinity:id="AI - Model evaluation">
+            <path id="Evaluation-gauge-arc" affinity:id="Evaluation gauge arc" d="M1017,1119C1022,1033 1154,1033 1159,1119" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Gauge-baseline" affinity:id="Gauge baseline" d="M1012,1123L1164,1123" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Gauge-pivot" affinity:id="Gauge pivot" cx="1088" cy="1120" r="8" style="fill:rgb(0,120,212);"/>
+            <path id="Evaluation-needle" affinity:id="Evaluation needle" d="M1088,1120L1126,1066" style="fill:none;stroke:rgb(0,120,212);stroke-width:7px;"/>
+            <path id="Evaluation-check" affinity:id="Evaluation check" d="M1051,1150L1071,1169L1119,1131L1051,1150Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:7px;"/>
+        </g>
+    </g>
+</svg>

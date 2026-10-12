@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1920,-640)">
+        <rect id="Azure-Services---Azure-Cosmos-DB" affinity:id="Azure Services - Azure Cosmos DB" x="1920" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-Cosmos-DB1" affinity:id="Azure Services - Azure Cosmos DB">
+            <circle id="Cosmos-data-plane" affinity:id="Cosmos data plane" cx="2048" cy="768" r="54" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Cosmos-orbit-horizontal" affinity:id="Cosmos orbit horizontal" d="M1994,768C2000,734 2096,734 2102,768C2096,802 2000,802 1994,768" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="Cosmos-orbit-vertical" affinity:id="Cosmos orbit vertical" d="M2048,714C2013,720 2013,816 2048,822C2083,816 2083,720 2048,714" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <circle id="Cosmos-data-point" affinity:id="Cosmos data point" cx="2048" cy="768" r="8" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

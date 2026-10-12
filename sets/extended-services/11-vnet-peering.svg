@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-320)">
+        <rect id="Networking---VNet-peering" affinity:id="Networking - VNet peering" x="640" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---VNet-peering1" affinity:id="Networking - VNet peering">
+            <circle id="Virtual-network-left" affinity:id="Virtual network left" cx="719" cy="442" r="41" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <circle id="Virtual-network-right" affinity:id="Virtual network right" cx="817" cy="442" r="41" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <path id="Peering-links" affinity:id="Peering links" d="M750,424L785,424M750,442L785,442M750,460L785,460" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <circle id="Left-network-node-0" affinity:id="Left network node 0" cx="719" cy="423" r="5" style="fill:rgb(0,120,212);"/>
+            <circle id="Right-network-node-0" affinity:id="Right network node 0" cx="817" cy="423" r="5" style="fill:rgb(0,120,212);"/>
+            <circle id="Left-network-node-1" affinity:id="Left network node 1" cx="719" cy="442" r="5" style="fill:rgb(0,120,212);"/>
+            <circle id="Right-network-node-1" affinity:id="Right network node 1" cx="817" cy="442" r="5" style="fill:rgb(0,120,212);"/>
+            <circle id="Left-network-node-2" affinity:id="Left network node 2" cx="719" cy="461" r="5" style="fill:rgb(0,120,212);"/>
+            <circle id="Right-network-node-2" affinity:id="Right network node 2" cx="817" cy="461" r="5" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

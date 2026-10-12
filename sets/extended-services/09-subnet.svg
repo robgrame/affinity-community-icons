@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-320)">
+        <rect id="Networking---Subnet" affinity:id="Networking - Subnet" x="0" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---Subnet1" affinity:id="Networking - Subnet">
+            <circle id="Subnet-core" affinity:id="Subnet core" cx="128" cy="447" r="14" style="fill:rgb(0,120,212);"/>
+            <path id="Subnet-branch-0" affinity:id="Subnet branch 0" d="M128,447L61,392" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-0" affinity:id="Subnet node 0" cx="61" cy="392" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Subnet-branch-1" affinity:id="Subnet branch 1" d="M128,447L194,388" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-1" affinity:id="Subnet node 1" cx="194" cy="388" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Subnet-branch-2" affinity:id="Subnet branch 2" d="M128,447L53,504" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-2" affinity:id="Subnet node 2" cx="53" cy="504" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Subnet-branch-3" affinity:id="Subnet branch 3" d="M128,447L205,505" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-3" affinity:id="Subnet node 3" cx="205" cy="505" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Subnet-branch-4" affinity:id="Subnet branch 4" d="M128,447L128,365" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-4" affinity:id="Subnet node 4" cx="128" cy="365" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Subnet-branch-5" affinity:id="Subnet branch 5" d="M128,447L128,531" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Subnet-node-5" affinity:id="Subnet node 5" cx="128" cy="531" r="9" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

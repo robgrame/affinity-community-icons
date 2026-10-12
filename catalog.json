@@ -1,8 +1,443 @@
 {
-  "version": "2.0.2",
-  "svg_variants": 60,
-  "native_documents": 8,
+  "version": "2.1.1",
+  "svg_variants": 100,
+  "native_documents": 9,
   "files": [
+    {
+      "path": "sets/extended-services/01-laptop.png",
+      "sha256": "99927d3cb6b6fc883cf0ff971dd88607f5125f34d203dd8db4747a30be7457ec",
+      "bytes": 2792
+    },
+    {
+      "path": "sets/extended-services/01-laptop.svg",
+      "sha256": "249de91b6c3b38ceb2c349174df243db059ff6d4d5671155ad7ec10fa7af646a",
+      "bytes": 1435
+    },
+    {
+      "path": "sets/extended-services/02-smartphone.png",
+      "sha256": "7d19bc9f2133765d555df5821b7b0e1ebc9d49dad1ff9f6e1bc3a659e53f97cb",
+      "bytes": 2810
+    },
+    {
+      "path": "sets/extended-services/02-smartphone.svg",
+      "sha256": "6a041374e940e6692fd1ed455b6e325f726cccf2068e68333abad1ffc901a743",
+      "bytes": 1457
+    },
+    {
+      "path": "sets/extended-services/03-tablet.png",
+      "sha256": "04298b8eabb20097d14c25db8d14cf03f5466924d92d57d321407169ac673da0",
+      "bytes": 3034
+    },
+    {
+      "path": "sets/extended-services/03-tablet.svg",
+      "sha256": "a5ff97dcec5e2858bd0c6a5abc8bb414ec049860d6eafcafbb643f800d3770a8",
+      "bytes": 1433
+    },
+    {
+      "path": "sets/extended-services/04-printer.png",
+      "sha256": "e356d1ceba6f7d3d8bdbf2019bcd5099a1cb2d7847f0c1ddc3e11211abed0323",
+      "bytes": 3341
+    },
+    {
+      "path": "sets/extended-services/04-printer.svg",
+      "sha256": "8f52fbb1cce74e5c9955df445fdfc14b6bd307bf695ed9080547180a83fd7c05",
+      "bytes": 1957
+    },
+    {
+      "path": "sets/extended-services/05-iot-sensor.png",
+      "sha256": "bbcc87d7bdf58c0d3e382d01c01e8714904a827fa206b8389049ca63ec3ca9b5",
+      "bytes": 6904
+    },
+    {
+      "path": "sets/extended-services/05-iot-sensor.svg",
+      "sha256": "833e7975e3aa4047f000f90cf1c7b5f4d4bd100d331816e95a2b38c6d28e68b2",
+      "bytes": 1548
+    },
+    {
+      "path": "sets/extended-services/06-edge-appliance.png",
+      "sha256": "33394079c9979e1732182fc0266fe2d37141bf1d180df516f1f6c1fd2408db79",
+      "bytes": 2924
+    },
+    {
+      "path": "sets/extended-services/06-edge-appliance.svg",
+      "sha256": "ceedd044d79e715ff2fa4e1cf47ee0bc2841da1efe3f206f295246f4a1e43d1c",
+      "bytes": 2098
+    },
+    {
+      "path": "sets/extended-services/07-docking-station.png",
+      "sha256": "b60d50788fb6935c66664d6f30f5f4406f444f76a50a46be0f3a6f40550f8ebe",
+      "bytes": 3065
+    },
+    {
+      "path": "sets/extended-services/07-docking-station.svg",
+      "sha256": "8e56dbd5e8b978545480a0382f8ff3a53f038a6cef68f8adc0adaa6124ab7a17",
+      "bytes": 2054
+    },
+    {
+      "path": "sets/extended-services/08-gpu-workstation.png",
+      "sha256": "75f20ba6c816e883ddcb36759f019573cddebef0a6fa5c5b8a11f8b2a894ab3f",
+      "bytes": 4464
+    },
+    {
+      "path": "sets/extended-services/08-gpu-workstation.svg",
+      "sha256": "fa76eb6d0edc05951343562b6a0a67c996156fcd3d713e270b7ea501c9aba3be",
+      "bytes": 2218
+    },
+    {
+      "path": "sets/extended-services/09-subnet.png",
+      "sha256": "e85fccbce9075445b844268a0f69898cc8c834a5b857df0d651c55708572cc8a",
+      "bytes": 7757
+    },
+    {
+      "path": "sets/extended-services/09-subnet.svg",
+      "sha256": "f0b63a064af891847676cacbbb40e24d8c7726a540ae6650b2c6b5bba6979104",
+      "bytes": 2734
+    },
+    {
+      "path": "sets/extended-services/10-private-endpoint.png",
+      "sha256": "5b792691cc11a02f2a861966b1af712e679ec55b419e3206a8e0de7c88861c75",
+      "bytes": 5340
+    },
+    {
+      "path": "sets/extended-services/10-private-endpoint.svg",
+      "sha256": "ea26dd39c2854e76bc77bf7b151cd04196eefbfd32ad3850f90cb61acdee92c8",
+      "bytes": 2186
+    },
+    {
+      "path": "sets/extended-services/11-vnet-peering.png",
+      "sha256": "57ed717b57c3e351ff4cb7f7bc75eb1dfff60f11ca7d862e3cc1fe464d324399",
+      "bytes": 4785
+    },
+    {
+      "path": "sets/extended-services/11-vnet-peering.svg",
+      "sha256": "b37a26bb89a20164e608ef8ce4a2d2813c3b9d26934e2d58f45c4742b947e887",
+      "bytes": 2102
+    },
+    {
+      "path": "sets/extended-services/12-network-security-group.png",
+      "sha256": "91cc0e30693d3a937e5c76439ee4e2033a2b0f1f17842316f69b1e4bd2d6f801",
+      "bytes": 4498
+    },
+    {
+      "path": "sets/extended-services/12-network-security-group.svg",
+      "sha256": "84b7d46b570f7407bb2f1d295dca352c7965f599787503603b301a639951dd69",
+      "bytes": 1235
+    },
+    {
+      "path": "sets/extended-services/13-nat-gateway.png",
+      "sha256": "ddca3b3851a85fd1faa1a6076d73604bf5c96eba0e37a1839dd0966ac6ecfc2c",
+      "bytes": 4126
+    },
+    {
+      "path": "sets/extended-services/13-nat-gateway.svg",
+      "sha256": "4ec99999e784741432f46d4c83cdfed2a024838bdacbd1ea6f4d86470ef6c5d2",
+      "bytes": 1905
+    },
+    {
+      "path": "sets/extended-services/14-reverse-proxy.png",
+      "sha256": "40cb9144889c1eaf3fac0d4ba362b9ef435a225ae8f6d6ad71c039c0f4f81bee",
+      "bytes": 4583
+    },
+    {
+      "path": "sets/extended-services/14-reverse-proxy.svg",
+      "sha256": "4c28b5fd14606439a8885437d523e7912389c28520e1f656c2e6025a2e93f23f",
+      "bytes": 2910
+    },
+    {
+      "path": "sets/extended-services/15-packet-inspection.png",
+      "sha256": "f99a9f6d861853adb3abd6a0a75be1b1f0177dcddb9dc7c79466e2b553652bdd",
+      "bytes": 4162
+    },
+    {
+      "path": "sets/extended-services/15-packet-inspection.svg",
+      "sha256": "bdd6f39f6886f0ec90c7214dd906bc1ad59923f2ec1472b15eb18b3934130eef",
+      "bytes": 1922
+    },
+    {
+      "path": "sets/extended-services/16-sd-wan.png",
+      "sha256": "39b4edd6bb14bfdf3bc9951b32d9fe51def16877ca729f87710e40fd747f9696",
+      "bytes": 8511
+    },
+    {
+      "path": "sets/extended-services/16-sd-wan.svg",
+      "sha256": "0829c029e488d5e03807d858acb3f870e17c060a0928e37c24b427d4f74bae31",
+      "bytes": 3536
+    },
+    {
+      "path": "sets/extended-services/17-azure-functions.png",
+      "sha256": "60ddac7596a375136b90ba5448aadf554d28d13222a1ec56a3ee8dd9b6946a3c",
+      "bytes": 4669
+    },
+    {
+      "path": "sets/extended-services/17-azure-functions.svg",
+      "sha256": "be71aa4e0b92af65c7665b105e12d16c9d489b5197e1e1fb8e4d6d0486f5fbed",
+      "bytes": 2002
+    },
+    {
+      "path": "sets/extended-services/18-azure-app-service.png",
+      "sha256": "16019f57d0a5baf07dac73cc367d2fc398d3a1b379169df5d94f6f1c492ca5fe",
+      "bytes": 3582
+    },
+    {
+      "path": "sets/extended-services/18-azure-app-service.svg",
+      "sha256": "d728bf82af78b65b553a1f7d76d9be1a2920ab806bae1994bc751eb0e2ad28a2",
+      "bytes": 2288
+    },
+    {
+      "path": "sets/extended-services/19-azure-kubernetes.png",
+      "sha256": "22b524a640783fe8b76546a67176cc0ce8141440c406e95a117ecd1be2610609",
+      "bytes": 7723
+    },
+    {
+      "path": "sets/extended-services/19-azure-kubernetes.svg",
+      "sha256": "80e952f6c295dd181d7fef75d6024a3095321a44a8e4279a3a97fb30942bd064",
+      "bytes": 4846
+    },
+    {
+      "path": "sets/extended-services/20-azure-key-vault.png",
+      "sha256": "1af0e52b2c2de9924462ab86b7090cddf102cd26aaaa93c2045b170e43630992",
+      "bytes": 4021
+    },
+    {
+      "path": "sets/extended-services/20-azure-key-vault.svg",
+      "sha256": "16449dbc5f43a6913b832f6d5cebe6a8d83f9fd2371693b2e3ef8ab8a390eb79",
+      "bytes": 1598
+    },
+    {
+      "path": "sets/extended-services/21-azure-service-bus.png",
+      "sha256": "61a6ce09e777017206db228fe250c4ed7dc42dee5b5ea96fa78e5558158fa966",
+      "bytes": 2617
+    },
+    {
+      "path": "sets/extended-services/21-azure-service-bus.svg",
+      "sha256": "a628672478eabd57aa8070d964682e363cbcd5bc1d08eadcac0a681e572dd408",
+      "bytes": 3014
+    },
+    {
+      "path": "sets/extended-services/22-azure-event-grid.png",
+      "sha256": "fb1ba3f16aab8ee7dfe7efd97e339667cc7eca295c216728864b0c8461b572b3",
+      "bytes": 5025
+    },
+    {
+      "path": "sets/extended-services/22-azure-event-grid.svg",
+      "sha256": "53f58c21183c057c4994760fb54af5883e9c45babe9906fbf9c52a34031173bb",
+      "bytes": 3616
+    },
+    {
+      "path": "sets/extended-services/23-azure-cosmos-db.png",
+      "sha256": "9b5f570b41f15a7d38946622dae0ebff971c637a5554872bbb188f40b107aa80",
+      "bytes": 8258
+    },
+    {
+      "path": "sets/extended-services/23-azure-cosmos-db.svg",
+      "sha256": "9e9355e161a128b9374aa5b088d093e8c3e224363a4b8a3a4d4037dc23b8c319",
+      "bytes": 1525
+    },
+    {
+      "path": "sets/extended-services/24-azure-sql.png",
+      "sha256": "e287fc90f47819535431bdf064ca243b3ae00a673c704cb618f440f511951b8d",
+      "bytes": 6145
+    },
+    {
+      "path": "sets/extended-services/24-azure-sql.svg",
+      "sha256": "7a90ea935a44c27871cbdf2fe57373d1d00d70efc5b1fe09236a47983f1979d5",
+      "bytes": 1628
+    },
+    {
+      "path": "sets/extended-services/25-embeddings.png",
+      "sha256": "3312144abdc2e98dbae03907b320a13db4f630d266c279eb44d665125d279e4e",
+      "bytes": 3696
+    },
+    {
+      "path": "sets/extended-services/25-embeddings.svg",
+      "sha256": "c2ec478ef668a5a1222dd797891cff0e20a81295576a5f69bc893760d3bf9b9e",
+      "bytes": 6644
+    },
+    {
+      "path": "sets/extended-services/26-vector-search.png",
+      "sha256": "1952eb21750f46fb2b49cd7accdb03fd430c707e434f2dcdf43c99fc4109cb7b",
+      "bytes": 5226
+    },
+    {
+      "path": "sets/extended-services/26-vector-search.svg",
+      "sha256": "87c8894350dda6dc6a13ac74a6e33576cf578f58245c00e0db95d8b97d5acaa3",
+      "bytes": 2024
+    },
+    {
+      "path": "sets/extended-services/27-retrieval-augmented-generation.png",
+      "sha256": "de2c1a53abf2eae5f8759e67e465949411e747b1cedf5f1a59eef66490903b88",
+      "bytes": 5582
+    },
+    {
+      "path": "sets/extended-services/27-retrieval-augmented-generation.svg",
+      "sha256": "8709f7282b40d474523ceb44c7eef0a82ffb01ebb986161aeeda9bb84d85ddca",
+      "bytes": 2202
+    },
+    {
+      "path": "sets/extended-services/28-model-evaluation.png",
+      "sha256": "e1223205a02d2ca049413a12ac0844609c93c48ee904d8a392cbfece877928b3",
+      "bytes": 5453
+    },
+    {
+      "path": "sets/extended-services/28-model-evaluation.svg",
+      "sha256": "467df0b5cda4098264ac372e463daa56fef39021a54fe6abc153aab59355c66e",
+      "bytes": 1555
+    },
+    {
+      "path": "sets/extended-services/29-fine-tuning.png",
+      "sha256": "6d4162a7e8e5b9f81762c1008f05293ab60198a88701294bc9a0b3fc472a15b4",
+      "bytes": 2638
+    },
+    {
+      "path": "sets/extended-services/29-fine-tuning.svg",
+      "sha256": "d34333e17580ad4896f9e5bd01bd29f68e0eb67fcc4f9151b2b9cf8c54e49c44",
+      "bytes": 2656
+    },
+    {
+      "path": "sets/extended-services/30-dataset-curation.png",
+      "sha256": "fc179098e1f71caa87fce52dda21ca3ff4cb7e84d3d58b25b885b90009542b9d",
+      "bytes": 3570
+    },
+    {
+      "path": "sets/extended-services/30-dataset-curation.svg",
+      "sha256": "2ae418deb39bf635181e365905fede4d7aaeec5f09f436195a9bb88c8a91c281",
+      "bytes": 2077
+    },
+    {
+      "path": "sets/extended-services/31-content-moderation.png",
+      "sha256": "78a548925f293729a26d0d4e41c27ccacb5d56f3a9f068c859052866b87e8a80",
+      "bytes": 6637
+    },
+    {
+      "path": "sets/extended-services/31-content-moderation.svg",
+      "sha256": "76776d28c0294840087f681a05e4531df02411eb42cb35a346ab928a016184e4",
+      "bytes": 1455
+    },
+    {
+      "path": "sets/extended-services/32-tool-calling.png",
+      "sha256": "9bbfd418e363eb6b47b6e27c0616981bddc30d6b481ed511ee2189b612ab7801",
+      "bytes": 7881
+    },
+    {
+      "path": "sets/extended-services/32-tool-calling.svg",
+      "sha256": "18acd5950783d8338b2903cc751d7b4bfb2e526cefbb8c33c59c2666473c8a7e",
+      "bytes": 3639
+    },
+    {
+      "path": "sets/extended-services/33-compute-instance.png",
+      "sha256": "ea65905d2628f21fbe2af5f14620a442911968148f5e14c16d6110bb4eadcaeb",
+      "bytes": 4769
+    },
+    {
+      "path": "sets/extended-services/33-compute-instance.svg",
+      "sha256": "359a9497f6bbf020372323eb4c2eb3e5ef120c500698179a7dd4daeaf4fcc878",
+      "bytes": 3277
+    },
+    {
+      "path": "sets/extended-services/34-serverless-execution.png",
+      "sha256": "29171a5e239044b2f16c6c06266b78a97108249ab63998ea8c4c9d8c173abda3",
+      "bytes": 5225
+    },
+    {
+      "path": "sets/extended-services/34-serverless-execution.svg",
+      "sha256": "a57de56d9034076b606c9177d2a914a23575aab068ddaa03cacefe7fda1730c4",
+      "bytes": 2319
+    },
+    {
+      "path": "sets/extended-services/35-message-queue.png",
+      "sha256": "bb3c39b898a0054ef679ef0a2c49dacc805f39b0a59be1e1e87754a10d6cc898",
+      "bytes": 5249
+    },
+    {
+      "path": "sets/extended-services/35-message-queue.svg",
+      "sha256": "e57c57f7ea1a158b4552e69544845014c95a80b1139a824eba14267d185f374e",
+      "bytes": 2254
+    },
+    {
+      "path": "sets/extended-services/36-event-stream.png",
+      "sha256": "ec1cf0ff0d5c65390d2132029e8376bedb672c544f260d6371d39e6f02eda627",
+      "bytes": 4210
+    },
+    {
+      "path": "sets/extended-services/36-event-stream.svg",
+      "sha256": "a7e7e680ef067c6f3bc74800f4e2950065ee38c56bc6708333bda2139b89cd2b",
+      "bytes": 2091
+    },
+    {
+      "path": "sets/extended-services/37-identity-provider.png",
+      "sha256": "bd35a06bccc7012b2427b5d7233b3dc088fb56999c1f07f1b11be9a72287f74f",
+      "bytes": 5941
+    },
+    {
+      "path": "sets/extended-services/37-identity-provider.svg",
+      "sha256": "2093b4af954713a0c6195e8c9a75c4b50bf5427c65c9506ba95cd737d06f9abf",
+      "bytes": 1544
+    },
+    {
+      "path": "sets/extended-services/38-secrets-service.png",
+      "sha256": "a26c72057ab0c538be8dbcf2c779d526d9852417224ba0013b6583fcda8cdb9a",
+      "bytes": 4378
+    },
+    {
+      "path": "sets/extended-services/38-secrets-service.svg",
+      "sha256": "6822a05961ae41a8231261d9539a4d244ecc15fdba1aeaf91514400390dd4c23",
+      "bytes": 1563
+    },
+    {
+      "path": "sets/extended-services/39-api-gateway.png",
+      "sha256": "62f6a6cc1781aaba1458053138df1b7f5e18b624d4110d8537e4a112e55d4bf0",
+      "bytes": 3249
+    },
+    {
+      "path": "sets/extended-services/39-api-gateway.svg",
+      "sha256": "7219e29781fecc279868f1b1bc67dfcbd6f6f989050d4f505cbdfbb8fe288af3",
+      "bytes": 2238
+    },
+    {
+      "path": "sets/extended-services/40-cost-management.png",
+      "sha256": "996d56cc9c1cc49af1ba7d334a39a89e1f193c662384cc33864606304fb10ea3",
+      "bytes": 5663
+    },
+    {
+      "path": "sets/extended-services/40-cost-management.svg",
+      "sha256": "c2ca6e682f81d15db347a82e26a3db693316d06a1899f84268e2bcb54d871cbe",
+      "bytes": 1630
+    },
+    {
+      "path": "sets/extended-services/ai-workflows-preview.png",
+      "sha256": "fd5bfe78a3af7c71bd4cc8238aefbb4fdeadef43d2d02cf4fcc81fd036714d5b",
+      "bytes": 35642
+    },
+    {
+      "path": "sets/extended-services/azure-services-preview.png",
+      "sha256": "bb2be77aa1242e3c08d199d110deb313f0c8b59214c1c9039c265ba553309a4b",
+      "bytes": 37533
+    },
+    {
+      "path": "sets/extended-services/cloud-services-preview.png",
+      "sha256": "3db9482d389eb7d691d54b60009b099334d50e045e4c784ec1c6e239a871f69f",
+      "bytes": 34142
+    },
+    {
+      "path": "sets/extended-services/devices-preview.png",
+      "sha256": "417929caa7ad0685121c71ecbcdd608357bb2b26a5837934e8275402fe3a7ae4",
+      "bytes": 26069
+    },
+    {
+      "path": "sets/extended-services/Extended-Cloud-Device-Network-AI-Services-v1.0.1.af",
+      "sha256": "758b1d93499e1cff2753f0a33343cba63be0f876c1afd0f457b2c6d9125d4b8f",
+      "bytes": 134771
+    },
+    {
+      "path": "sets/extended-services/extended-services-preview.png",
+      "sha256": "f7e11243a7e09544ab2068fa70369fc280a185582ef04672b5bef97506bcdc0f",
+      "bytes": 183297
+    },
+    {
+      "path": "sets/extended-services/networking-preview.png",
+      "sha256": "819cbec0301bbdaf0549d686a3508893252dc1dfef16b87cc45dbaa572107566",
+      "bytes": 37820
+    },
     {
       "path": "sets/infrastructure-01/ai-assistant.png",
       "sha256": "0a38fd7c7895ace5edea55444d8bfed269dc044cc1b47d07e1c30c7a5a3b1453",

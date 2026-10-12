@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-2240,-1280)">
+        <rect id="Cloud-Services---Cost-management" affinity:id="Cloud Services - Cost management" x="2240" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---Cost-management1" affinity:id="Cloud Services - Cost management">
+            <circle id="Cost-coin" affinity:id="Cost coin" cx="2322" cy="1388" r="33" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="Coin-mark" affinity:id="Coin mark" d="M2336,1373L2324,1363L2308,1371L2309,1383L2331,1391L2334,1403L2320,1413L2304,1403" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Cost-trend-baseline" affinity:id="Cost trend baseline" d="M2362,1462L2445,1462" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Spending-trend" affinity:id="Spending trend" d="M2363,1446L2385,1431L2403,1442L2430,1408L2448,1389" style="fill:none;stroke:rgb(0,120,212);stroke-width:7px;"/>
+            <circle id="Trend-endpoint" affinity:id="Trend endpoint" cx="2448" cy="1389" r="6" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

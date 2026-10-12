@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1600,-320)">
+        <rect id="Networking---Reverse-proxy" affinity:id="Networking - Reverse proxy" x="1600" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---Reverse-proxy1" affinity:id="Networking - Reverse proxy">
+            <circle id="Proxy-client" affinity:id="Proxy client" cx="1649" cy="448" r="17" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <path id="Proxy-gateway" affinity:id="Proxy gateway" d="M1703,415L1754,415C1760.075,415 1765,419.925 1765,426L1765,470C1765,476.075 1760.075,481 1754,481L1703,481C1696.925,481 1692,476.075 1692,470L1692,426C1692,419.925 1696.925,415 1703,415" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Proxy-upstream-0" affinity:id="Proxy upstream 0" d="M1793,394L1819,394C1822.314,394 1825,396.686 1825,400L1825,422C1825,425.314 1822.314,428 1819,428L1793,428C1789.686,428 1787,425.314 1787,422L1787,400C1787,396.686 1789.686,394 1793,394" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Upstream-connector-0" affinity:id="Upstream connector 0" d="M1765,448L1776,448L1776,411L1787,411" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Proxy-upstream-1" affinity:id="Proxy upstream 1" d="M1793,445L1819,445C1822.314,445 1825,447.686 1825,451L1825,473C1825,476.314 1822.314,479 1819,479L1793,479C1789.686,479 1787,476.314 1787,473L1787,451C1787,447.686 1789.686,445 1793,445" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Upstream-connector-1" affinity:id="Upstream connector 1" d="M1765,448L1776,448L1776,462L1787,462" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Proxy-upstream-2" affinity:id="Proxy upstream 2" d="M1793,496L1819,496C1822.314,496 1825,498.686 1825,502L1825,524C1825,527.314 1822.314,530 1819,530L1793,530C1789.686,530 1787,527.314 1787,524L1787,502C1787,498.686 1789.686,496 1793,496" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Upstream-connector-2" affinity:id="Upstream connector 2" d="M1765,448L1776,448L1776,513L1787,513" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Proxy-ingress" affinity:id="Proxy ingress" d="M1666,448L1692,448" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+        </g>
+    </g>
+</svg>

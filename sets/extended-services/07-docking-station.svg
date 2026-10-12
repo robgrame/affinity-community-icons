@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1920,0)">
+        <rect id="Devices---Docking-station" affinity:id="Devices - Docking station" x="1920" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="Devices---Docking-station1" affinity:id="Devices - Docking station">
+            <path id="Dock-base" affinity:id="Dock base" d="M1971,157L2125,157C2129.418,157 2133,160.582 2133,165L2133,188C2133,192.418 2129.418,196 2125,196L1971,196C1966.582,196 1963,192.418 1963,188L1963,165C1963,160.582 1966.582,157 1971,157" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Dock-bay" affinity:id="Dock bay" d="M1988,121L2108,121C2110.761,121 2113,123.239 2113,126L2113,150C2113,152.761 2110.761,155 2108,155L1988,155C1985.239,155 1983,152.761 1983,150L1983,126C1983,123.239 1985.239,121 1988,121" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Dock-screen" affinity:id="Dock screen" d="M2010,53L2088,53C2092.418,53 2096,56.582 2096,61L2096,112C2096,116.418 2092.418,120 2088,120L2010,120C2005.582,120 2002,116.418 2002,112L2002,61C2002,56.582 2005.582,53 2010,53" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Dock-stand" affinity:id="Dock stand" d="M2048,120L2048,143L2031,157M2048,143L2065,157" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <path id="Dock-ports" affinity:id="Dock ports" d="M1993,174L1993,181M2011,174L2011,181M2029,174L2029,181M2097,169L2114,169" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+        </g>
+    </g>
+</svg>

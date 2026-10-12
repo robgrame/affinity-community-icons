@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-320)">
+        <rect id="Networking---Private-endpoint" affinity:id="Networking - Private endpoint" x="320" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---Private-endpoint1" affinity:id="Networking - Private endpoint">
+            <path id="Private-cloud" affinity:id="Private cloud" d="M408.64,455.68L397.16,455.68C380.76,454.04 379.94,433.54 394.7,427.8C397.98,409.76 421.76,404.02 433.24,417.14C448,390.9 482.44,399.92 483.26,426.16C503.76,426.98 508.68,454.86 488.18,455.68L408.64,455.68" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Private-endpoint" affinity:id="Private endpoint" d="M433,444L463,444C467.418,444 471,447.582 471,452L471,480C471,484.418 467.418,488 463,488L433,488C428.582,488 425,484.418 425,480L425,452C425,447.582 428.582,444 433,444" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <circle id="Endpoint-core" affinity:id="Endpoint core" cx="448" cy="465" r="8" style="fill:rgb(0,120,212);"/>
+            <path id="Private-tunnel" affinity:id="Private tunnel" d="M372,501L407,501L421,486M469,486L485,501L524,501" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <path id="Tunnel-dash-0" affinity:id="Tunnel dash 0" d="M387,501L397,501" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Tunnel-dash-1" affinity:id="Tunnel dash 1" d="M414,501L424,501" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Tunnel-dash-2" affinity:id="Tunnel dash 2" d="M441,501L451,501" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

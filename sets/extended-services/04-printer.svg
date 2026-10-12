@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,0)">
+        <rect id="Devices---Printer" affinity:id="Devices - Printer" x="960" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="Devices---Printer1" affinity:id="Devices - Printer">
+            <path id="Printer-body" affinity:id="Printer body" d="M1020,91L1156,91C1163.18,91 1169,96.82 1169,104L1169,180C1169,187.18 1163.18,193 1156,193L1020,193C1012.82,193 1007,187.18 1007,180L1007,104C1007,96.82 1012.82,91 1020,91" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Printer-scanner" affinity:id="Printer scanner" d="M1030,65L1146,65C1150.418,65 1154,68.582 1154,73L1154,95C1154,99.418 1150.418,103 1146,103L1030,103C1025.582,103 1022,99.418 1022,95L1022,73C1022,68.582 1025.582,65 1030,65" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Paper-feed" affinity:id="Paper feed" d="M1046,65L1046,45L1130,45L1130,65" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <rect id="Printed-page" affinity:id="Printed page" x="1046" y="152" width="84" height="68" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Printer-output" affinity:id="Printer output" d="M1059,168L1117,168M1059,180L1106,180" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Printer-status" affinity:id="Printer status" cx="1148" cy="116" r="5" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

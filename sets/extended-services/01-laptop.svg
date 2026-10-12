@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <rect id="Devices---Laptop" affinity:id="Devices - Laptop" x="0" y="0" width="256" height="256" style="fill:none;"/>
+    <g id="Devices---Laptop1" affinity:id="Devices - Laptop">
+        <path id="Laptop-screen-bezel" affinity:id="Laptop screen bezel" d="M58,44L198,44C203.523,44 208,48.477 208,54L208,146C208,151.523 203.523,156 198,156L58,156C52.477,156 48,151.523 48,146L48,54C48,48.477 52.477,44 58,44" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+        <path id="Laptop-screen-display-detail" affinity:id="Laptop screen display detail" d="M62,61L194,61" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+        <path id="Laptop-base" affinity:id="Laptop base" d="M39,164L217,164L202,183L54,183L39,164" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+        <path id="Laptop-touchpad" affinity:id="Laptop touchpad" d="M108,173L148,173" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+    </g>
+</svg>

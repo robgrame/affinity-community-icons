@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-1280)">
+        <rect id="Cloud-Services---Compute-instance" affinity:id="Cloud Services - Compute instance" x="0" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---Compute-instance1" affinity:id="Cloud Services - Compute instance">
+            <path id="Compute-instance-enclosure" affinity:id="Compute instance enclosure" d="M74,1327L182,1327C188.627,1327 194,1332.373 194,1339L194,1472C194,1478.627 188.627,1484 182,1484L74,1484C67.373,1484 62,1478.627 62,1472L62,1339C62,1332.373 67.373,1327 74,1327" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Compute-instance-module-1" affinity:id="Compute instance module 1" d="M80,1347L176,1347C178.761,1347 181,1349.239 181,1352L181,1373C181,1375.761 178.761,1378 176,1378L80,1378C77.239,1378 75,1375.761 75,1373L75,1352C75,1349.239 77.239,1347 80,1347" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Compute-instance-status-1" affinity:id="Compute instance status 1" cx="90" cy="1362" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Compute-instance-vents-1" affinity:id="Compute instance vents 1" d="M110,1359L180,1359M110,1367L166,1367" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Compute-instance-module-2" affinity:id="Compute instance module 2" d="M80,1389L176,1389C178.761,1389 181,1391.239 181,1394L181,1415C181,1417.761 178.761,1420 176,1420L80,1420C77.239,1420 75,1417.761 75,1415L75,1394C75,1391.239 77.239,1389 80,1389" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Compute-instance-status-2" affinity:id="Compute instance status 2" cx="90" cy="1404" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Compute-instance-vents-2" affinity:id="Compute instance vents 2" d="M110,1401L180,1401M110,1409L166,1409" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Compute-instance-module-3" affinity:id="Compute instance module 3" d="M80,1431L176,1431C178.761,1431 181,1433.239 181,1436L181,1457C181,1459.761 178.761,1462 176,1462L80,1462C77.239,1462 75,1459.761 75,1457L75,1436C75,1433.239 77.239,1431 80,1431" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Compute-instance-status-3" affinity:id="Compute instance status 3" cx="90" cy="1446" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Compute-instance-vents-3" affinity:id="Compute instance vents 3" d="M110,1443L180,1443M110,1451L166,1451" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <circle id="Compute-CPU" affinity:id="Compute CPU" cx="128" cy="1345" r="12" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

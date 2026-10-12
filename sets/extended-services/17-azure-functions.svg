@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-640)">
+        <rect id="Azure-Services---Azure-Functions" affinity:id="Azure Services - Azure Functions" x="0" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-Functions1" affinity:id="Azure Services - Azure Functions">
+            <path id="Function-service-cloud" affinity:id="Function service cloud" d="M87.2,781.4L75.3,781.4C58.3,779.7 57.45,758.45 72.75,752.5C76.15,733.8 100.8,727.85 112.7,741.45C128,714.25 163.7,723.6 164.55,750.8C185.8,751.65 190.9,780.55 169.65,781.4L87.2,781.4" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Function-graph" affinity:id="Function graph" d="M91,772L128,791M128,791L165,772M128,791L128,821" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Function-input-output-0" affinity:id="Function input output 0" cx="91" cy="772" r="6" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Function-input-output-1" affinity:id="Function input output 1" cx="128" cy="791" r="6" style="fill:rgb(0,120,212);stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Function-input-output-2" affinity:id="Function input output 2" cx="165" cy="772" r="6" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Function-input-output-3" affinity:id="Function input output 3" cx="128" cy="821" r="6" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-640)">
+        <rect id="Azure-Services---Azure-Key-Vault" affinity:id="Azure Services - Azure Key Vault" x="960" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-Key-Vault1" affinity:id="Azure Services - Azure Key Vault">
+            <path id="Key-vault-body" affinity:id="Key vault body" d="M1026,738L1150,738C1158.284,738 1165,744.716 1165,753L1165,831C1165,839.284 1158.284,846 1150,846L1026,846C1017.716,846 1011,839.284 1011,831L1011,753C1011,744.716 1017.716,738 1026,738" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Vault-shackle" affinity:id="Vault shackle" d="M1049,742L1049,716C1049,677 1127,677 1127,716L1127,742" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <circle id="Vault-keyway" affinity:id="Vault keyway" cx="1088" cy="783" r="13" style="fill:rgb(0,120,212);"/>
+            <path id="Vault-key-stem" affinity:id="Vault key stem" d="M1088,795L1088,819L1100,819L1100,811" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-2240,-320)">
+        <rect id="Networking---SD-WAN" affinity:id="Networking - SD-WAN" x="2240" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---SD-WAN1" affinity:id="Networking - SD-WAN">
+            <path id="SD-WAN-fabric" affinity:id="SD-WAN fabric" d="M2333.44,464.28L2323.36,464.28C2308.96,462.84 2308.24,444.84 2321.2,439.8C2324.08,423.96 2344.96,418.92 2355.04,430.44C2368,407.4 2398.24,415.32 2398.96,438.36C2416.96,439.08 2421.28,463.56 2403.28,464.28L2333.44,464.28" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="SD-WAN-site-0" affinity:id="SD-WAN site 0" d="M2277,369L2303,369C2305.761,369 2308,371.239 2308,374L2308,394C2308,396.761 2305.761,399 2303,399L2277,399C2274.239,399 2272,396.761 2272,394L2272,374C2272,371.239 2274.239,369 2277,369" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="SD-WAN-site-node-0" affinity:id="SD-WAN site node 0" cx="2290" cy="384" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="SD-WAN-link-0" affinity:id="SD-WAN link 0" d="M2368,447L2290,384" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="SD-WAN-site-1" affinity:id="SD-WAN site 1" d="M2433,369L2459,369C2461.761,369 2464,371.239 2464,374L2464,394C2464,396.761 2461.761,399 2459,399L2433,399C2430.239,399 2428,396.761 2428,394L2428,374C2428,371.239 2430.239,369 2433,369" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="SD-WAN-site-node-1" affinity:id="SD-WAN site node 1" cx="2446" cy="384" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="SD-WAN-link-1" affinity:id="SD-WAN link 1" d="M2368,447L2446,384" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="SD-WAN-site-2" affinity:id="SD-WAN site 2" d="M2277,498L2303,498C2305.761,498 2308,500.239 2308,503L2308,523C2308,525.761 2305.761,528 2303,528L2277,528C2274.239,528 2272,525.761 2272,523L2272,503C2272,500.239 2274.239,498 2277,498" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="SD-WAN-site-node-2" affinity:id="SD-WAN site node 2" cx="2290" cy="513" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="SD-WAN-link-2" affinity:id="SD-WAN link 2" d="M2368,447L2290,513" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="SD-WAN-site-3" affinity:id="SD-WAN site 3" d="M2433,498L2459,498C2461.761,498 2464,500.239 2464,503L2464,523C2464,525.761 2461.761,528 2459,528L2433,528C2430.239,528 2428,525.761 2428,523L2428,503C2428,500.239 2430.239,498 2433,498" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="SD-WAN-site-node-3" affinity:id="SD-WAN site node 3" cx="2446" cy="513" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="SD-WAN-link-3" affinity:id="SD-WAN link 3" d="M2368,447L2446,513" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

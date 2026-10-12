@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-640)">
+        <rect id="Azure-Services---Azure-App-Service" affinity:id="Azure Services - Azure App Service" x="320" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-App-Service1" affinity:id="Azure Services - Azure App Service">
+            <path id="App-service-browser" affinity:id="App service browser" d="M378,693L518,693C525.18,693 531,698.82 531,706L531,829C531,836.18 525.18,842 518,842L378,842C370.82,842 365,836.18 365,829L365,706C365,698.82 370.82,693 378,693" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Browser-toolbar" affinity:id="Browser toolbar" d="M365,723L531,723" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Browser-control-0" affinity:id="Browser control 0" cx="381" cy="708" r="3" style="fill:rgb(0,120,212);"/>
+            <circle id="Browser-control-1" affinity:id="Browser control 1" cx="396" cy="708" r="3" style="fill:rgb(0,120,212);"/>
+            <circle id="Browser-control-2" affinity:id="Browser control 2" cx="411" cy="708" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Web-app-component" affinity:id="Web app component" d="M395,742L501,742C505.418,742 509,745.582 509,750L509,806C509,810.418 505.418,814 501,814L395,814C390.582,814 387,810.418 387,806L387,750C387,745.582 390.582,742 395,742" style="fill:rgb(218,237,251);stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="App-component-node" affinity:id="App component node" cx="412" cy="766" r="8" style="fill:rgb(0,120,212);"/>
+            <path id="Web-app-content" affinity:id="Web app content" d="M431,760L489,760M431,777L497,777M398,796L497,796" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

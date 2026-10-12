@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1920,-1280)">
+        <rect id="Cloud-Services---API-gateway" affinity:id="Cloud Services - API gateway" x="1920" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---API-gateway1" affinity:id="Cloud Services - API gateway">
+            <path id="API-gateway" affinity:id="API gateway" d="M2021,1365L2075,1365C2081.627,1365 2087,1370.373 2087,1377L2087,1438C2087,1444.627 2081.627,1450 2075,1450L2021,1450C2014.373,1450 2009,1444.627 2009,1438L2009,1377C2009,1370.373 2014.373,1365 2021,1365" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Gateway-entry-routes" affinity:id="Gateway entry routes" d="M1968,1381L1993,1381L2008,1392M1968,1408L2008,1408M1968,1435L1993,1435L2008,1424" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Gateway-route-0" affinity:id="Gateway route 0" d="M2087,1408L2104,1408L2104,1381L2127,1381" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="API-endpoint-0" affinity:id="API endpoint 0" cx="2130" cy="1381" r="5" style="fill:rgb(0,120,212);"/>
+            <path id="Gateway-route-1" affinity:id="Gateway route 1" d="M2087,1408L2127,1408" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="API-endpoint-1" affinity:id="API endpoint 1" cx="2130" cy="1408" r="5" style="fill:rgb(0,120,212);"/>
+            <path id="Gateway-route-2" affinity:id="Gateway route 2" d="M2087,1408L2104,1408L2104,1435L2127,1435" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="API-endpoint-2" affinity:id="API endpoint 2" cx="2130" cy="1435" r="5" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-2240,0)">
+        <rect id="Devices---GPU-workstation" affinity:id="Devices - GPU workstation" x="2240" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="Devices---GPU-workstation1" affinity:id="Devices - GPU workstation">
+            <path id="GPU-workstation-display-bezel" affinity:id="GPU workstation display bezel" d="M2288,37L2384,37C2389.523,37 2394,41.477 2394,47L2394,118C2394,123.523 2389.523,128 2384,128L2288,128C2282.477,128 2278,123.523 2278,118L2278,47C2278,41.477 2282.477,37 2288,37" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="GPU-workstation-display-display-detail" affinity:id="GPU workstation display display detail" d="M2292,54L2380,54" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="Display-stand" affinity:id="Display stand" d="M2336,128L2336,151L2318,163M2336,151L2355,163" style="fill:none;stroke:rgb(15,39,65);stroke-width:6px;"/>
+            <path id="GPU-tower" affinity:id="GPU tower" d="M2414,64L2449,64C2453.971,64 2458,68.029 2458,73L2458,200C2458,204.971 2453.971,209 2449,209L2414,209C2409.029,209 2405,204.971 2405,200L2405,73C2405,68.029 2409.029,64 2414,64" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <circle id="GPU-fan" affinity:id="GPU fan" cx="2431" cy="110" r="16" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="GPU-fan-hub" affinity:id="GPU fan hub" cx="2431" cy="110" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="GPU-slots" affinity:id="GPU slots" d="M2416,151L2446,151M2416,163L2446,163M2416,175L2446,175" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

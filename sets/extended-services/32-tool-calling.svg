@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-2240,-960)">
+        <rect id="AI---Tool-calling" affinity:id="AI - Tool calling" x="2240" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="AI---Tool-calling1" affinity:id="AI - Tool calling">
+            <circle id="Agent-core" affinity:id="Agent core" cx="2368" cy="1081" r="30" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="Agent-intelligence" affinity:id="Agent intelligence" d="M2368,1068L2371.309,1077.691L2381,1081L2371.309,1084.309L2368,1094L2364.691,1084.309L2355,1081L2364.691,1077.691L2368,1068Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="Tool-connection-0" affinity:id="Tool connection 0" d="M2368,1081L2302,1023" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Called-tool-0" affinity:id="Called tool 0" d="M2292,1010L2312,1010C2314.761,1010 2317,1012.239 2317,1015L2317,1031C2317,1033.761 2314.761,1036 2312,1036L2292,1036C2289.239,1036 2287,1033.761 2287,1031L2287,1015C2287,1012.239 2289.239,1010 2292,1010" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Tool-endpoint-0" affinity:id="Tool endpoint 0" cx="2302" cy="1023" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Tool-connection-1" affinity:id="Tool connection 1" d="M2368,1081L2434,1023" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Called-tool-1" affinity:id="Called tool 1" d="M2424,1010L2444,1010C2446.761,1010 2449,1012.239 2449,1015L2449,1031C2449,1033.761 2446.761,1036 2444,1036L2424,1036C2421.239,1036 2419,1033.761 2419,1031L2419,1015C2419,1012.239 2421.239,1010 2424,1010" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Tool-endpoint-1" affinity:id="Tool endpoint 1" cx="2434" cy="1023" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Tool-connection-2" affinity:id="Tool connection 2" d="M2368,1081L2302,1147" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Called-tool-2" affinity:id="Called tool 2" d="M2292,1134L2312,1134C2314.761,1134 2317,1136.239 2317,1139L2317,1155C2317,1157.761 2314.761,1160 2312,1160L2292,1160C2289.239,1160 2287,1157.761 2287,1155L2287,1139C2287,1136.239 2289.239,1134 2292,1134" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Tool-endpoint-2" affinity:id="Tool endpoint 2" cx="2302" cy="1147" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Tool-connection-3" affinity:id="Tool connection 3" d="M2368,1081L2434,1147" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Called-tool-3" affinity:id="Called tool 3" d="M2424,1134L2444,1134C2446.761,1134 2449,1136.239 2449,1139L2449,1155C2449,1157.761 2446.761,1160 2444,1160L2424,1160C2421.239,1160 2419,1157.761 2419,1155L2419,1139C2419,1136.239 2421.239,1134 2424,1134" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Tool-endpoint-3" affinity:id="Tool endpoint 3" cx="2434" cy="1147" r="3" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

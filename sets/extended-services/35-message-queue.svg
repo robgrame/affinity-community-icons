@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-1280)">
+        <rect id="Cloud-Services---Message-queue" affinity:id="Cloud Services - Message queue" x="640" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---Message-queue1" affinity:id="Cloud Services - Message queue">
+            <path id="Queue-envelope" affinity:id="Queue envelope" d="M704,1338L832,1338C838.627,1338 844,1343.373 844,1350L844,1470C844,1476.627 838.627,1482 832,1482L704,1482C697.373,1482 692,1476.627 692,1470L692,1350C692,1343.373 697.373,1338 704,1338" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Envelope-flap" affinity:id="Envelope flap" d="M693,1348L768,1404L843,1348L693,1348Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Queue-message-0" affinity:id="Queue message 0" d="M730,1422L806,1422C808.761,1422 811,1424.239 811,1427L811,1429C811,1431.761 808.761,1434 806,1434L730,1434C727.239,1434 725,1431.761 725,1429L725,1427C725,1424.239 727.239,1422 730,1422" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:3px;"/>
+            <path id="Queue-message-1" affinity:id="Queue message 1" d="M730,1440L806,1440C808.761,1440 811,1442.239 811,1445L811,1447C811,1449.761 808.761,1452 806,1452L730,1452C727.239,1452 725,1449.761 725,1447L725,1445C725,1442.239 727.239,1440 730,1440" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Queue-message-2" affinity:id="Queue message 2" d="M730,1458L806,1458C808.761,1458 811,1460.239 811,1463L811,1465C811,1467.761 808.761,1470 806,1470L730,1470C727.239,1470 725,1467.761 725,1465L725,1463C725,1460.239 727.239,1458 730,1458" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+        </g>
+    </g>
+</svg>

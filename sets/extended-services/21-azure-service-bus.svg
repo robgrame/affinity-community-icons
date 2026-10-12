@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1280,-640)">
+        <rect id="Azure-Services---Azure-Service-Bus" affinity:id="Azure Services - Azure Service Bus" x="1280" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-Service-Bus1" affinity:id="Azure Services - Azure Service Bus">
+            <path id="Service-bus-message-0" affinity:id="Service bus message 0" d="M1332,707L1362,707C1364.761,707 1367,709.239 1367,712L1367,733C1367,735.761 1364.761,738 1362,738L1332,738C1329.239,738 1327,735.761 1327,733L1327,712C1327,709.239 1329.239,707 1332,707" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Message-payload-0" affinity:id="Message payload 0" cx="1347" cy="722" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Service-bus-message-1" affinity:id="Service bus message 1" d="M1393,707L1423,707C1425.761,707 1428,709.239 1428,712L1428,733C1428,735.761 1425.761,738 1423,738L1393,738C1390.239,738 1388,735.761 1388,733L1388,712C1388,709.239 1390.239,707 1393,707" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Message-payload-1" affinity:id="Message payload 1" cx="1408" cy="722" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Service-bus-message-2" affinity:id="Service bus message 2" d="M1454,707L1484,707C1486.761,707 1489,709.239 1489,712L1489,733C1489,735.761 1486.761,738 1484,738L1454,738C1451.239,738 1449,735.761 1449,733L1449,712C1449,709.239 1451.239,707 1454,707" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Message-payload-2" affinity:id="Message payload 2" cx="1469" cy="722" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Service-bus-rail" affinity:id="Service bus rail" d="M1327,770L1489,770M1327,787L1489,787" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Bus-connector-0" affinity:id="Bus connector 0" d="M1347,737L1347,770" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Bus-connector-1" affinity:id="Bus connector 1" d="M1408,737L1408,770" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Bus-connector-2" affinity:id="Bus connector 2" d="M1469,737L1469,770" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Bus-flow" affinity:id="Bus flow" d="M1349,821L1453,821M1467,821L1453,828M1467,821L1453,814" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+        </g>
+    </g>
+</svg>

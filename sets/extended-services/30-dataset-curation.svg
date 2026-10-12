@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1600,-960)">
+        <rect id="AI---Dataset-curation" affinity:id="AI - Dataset curation" x="1600" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="AI---Dataset-curation1" affinity:id="AI - Dataset curation">
+            <path id="Dataset-table" affinity:id="Dataset table" d="M1657,1012L1800,1012C1805.523,1012 1810,1016.477 1810,1022L1810,1149C1810,1154.523 1805.523,1159 1800,1159L1657,1159C1651.477,1159 1647,1154.523 1647,1149L1647,1022C1647,1016.477 1651.477,1012 1657,1012" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Dataset-columns" affinity:id="Dataset columns" d="M1647,1051L1810,1051M1698,1051L1698,1159M1753,1051L1753,1159" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Dataset-row-0" affinity:id="Dataset row 0" d="M1661,1068L1684,1068M1710,1068L1740,1068M1765,1068L1796,1068" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Dataset-row-1" affinity:id="Dataset row 1" d="M1661,1093L1684,1093M1710,1093L1740,1093M1765,1093L1796,1093" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Dataset-row-2" affinity:id="Dataset row 2" d="M1661,1118L1684,1118M1710,1118L1740,1118M1765,1118L1796,1118" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Curation-funnel" affinity:id="Curation funnel" d="M1686,1011L1770,1011L1745,1051L1745,1078L1711,1092L1711,1051L1686,1011Z" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:5px;"/>
+        </g>
+    </g>
+</svg>

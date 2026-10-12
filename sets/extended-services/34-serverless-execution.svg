@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-1280)">
+        <rect id="Cloud-Services---Serverless-execution" affinity:id="Cloud Services - Serverless execution" x="320" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---Serverless-execution1" affinity:id="Cloud Services - Serverless execution">
+            <path id="Serverless-execution-cloud" affinity:id="Serverless execution cloud" d="M403.84,1419.08L390.96,1419.08C372.56,1417.24 371.64,1394.24 388.2,1387.8C391.88,1367.56 418.56,1361.12 431.44,1375.84C448,1346.4 486.64,1356.52 487.56,1385.96C510.56,1386.88 516.08,1418.16 493.08,1419.08L403.84,1419.08" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Serverless-dispatch" affinity:id="Serverless dispatch" d="M448,1419L396,1461M448,1419L448,1472M448,1419L500,1461" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Serverless-invocation-0" affinity:id="Serverless invocation 0" cx="396" cy="1461" r="7" style="fill:rgb(0,120,212);"/>
+            <path id="Invocation-baseline-0" affinity:id="Invocation baseline 0" d="M383,1487L409,1487" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Serverless-invocation-1" affinity:id="Serverless invocation 1" cx="448" cy="1472" r="7" style="fill:rgb(0,120,212);"/>
+            <path id="Invocation-baseline-1" affinity:id="Invocation baseline 1" d="M435,1487L461,1487" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Serverless-invocation-2" affinity:id="Serverless invocation 2" cx="500" cy="1461" r="7" style="fill:rgb(0,120,212);"/>
+            <path id="Invocation-baseline-2" affinity:id="Invocation baseline 2" d="M487,1487L513,1487" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>

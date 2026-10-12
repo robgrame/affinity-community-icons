@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-2240,-640)">
+        <rect id="Azure-Services---Azure-SQL" affinity:id="Azure Services - Azure SQL" x="2240" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-SQL1" affinity:id="Azure Services - Azure SQL">
+            <path id="SQL-data-tier-0" affinity:id="SQL data tier 0" d="M2307,724C2307,702 2429,702 2429,724L2429,746C2429,768 2307,768 2307,746L2307,724" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <path id="SQL-data-tier-1" affinity:id="SQL data tier 1" d="M2307,766C2307,744 2429,744 2429,766L2429,788C2429,810 2307,810 2307,788L2307,766" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="SQL-data-tier-2" affinity:id="SQL data tier 2" d="M2307,808C2307,786 2429,786 2429,808L2429,830C2429,852 2307,852 2307,830L2307,808" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="SQL-table-rows" affinity:id="SQL table rows" d="M2328,735L2408,735M2328,777L2408,777M2328,819L2408,819" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+        </g>
+    </g>
+</svg>

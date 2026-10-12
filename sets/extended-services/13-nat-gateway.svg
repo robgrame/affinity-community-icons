@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-1280,-320)">
+        <rect id="Networking---NAT-gateway" affinity:id="Networking - NAT gateway" x="1280" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="Networking---NAT-gateway1" affinity:id="Networking - NAT gateway">
+            <path id="Translation-gateway" affinity:id="Translation gateway" d="M1380,410L1436,410C1442.075,410 1447,414.925 1447,421L1447,475C1447,481.075 1442.075,486 1436,486L1380,486C1373.925,486 1369,481.075 1369,475L1369,421C1369,414.925 1373.925,410 1380,410" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Gateway-body" affinity:id="Gateway body" d="M1387,431L1428,431M1387,465L1428,465" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <path id="Outbound-mapping" affinity:id="Outbound mapping" d="M1335,403L1356.027,415.744M1368,423L1352.399,421.73M1368,423L1359.655,409.757" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Translated-flow" affinity:id="Translated flow" d="M1448,471L1470.879,488.496M1482,497L1466.627,494.056M1482,497L1475.131,482.935" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Inbound-mapping" affinity:id="Inbound mapping" d="M1482,401L1459.911,414.643M1448,422L1456.233,408.688M1448,422L1463.59,420.599" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+        </g>
+    </g>
+</svg>

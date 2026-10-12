@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,0)">
+        <rect id="Devices---Tablet" affinity:id="Devices - Tablet" x="640" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="Devices---Tablet1" affinity:id="Devices - Tablet">
+            <path id="Tablet-body" affinity:id="Tablet body" d="M701,36L835,36C843.837,36 851,43.163 851,52L851,204C851,212.837 843.837,220 835,220L701,220C692.163,220 685,212.837 685,204L685,52C685,43.163 692.163,36 701,36" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Tablet-display" affinity:id="Tablet display" d="M703,52L833,52C836.314,52 839,54.686 839,58L839,190C839,193.314 836.314,196 833,196L703,196C699.686,196 697,193.314 697,190L697,58C697,54.686 699.686,52 703,52" style="fill:none;stroke:rgb(15,39,65);stroke-width:5px;"/>
+            <circle id="Tablet-home" affinity:id="Tablet home" cx="768" cy="207" r="4" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="Devices---Smartphone" affinity:id="Devices - Smartphone" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="Devices---Smartphone1" affinity:id="Devices - Smartphone">
+            <path id="Phone-body" affinity:id="Phone body" d="M417,31L479,31C488.941,31 497,39.059 497,49L497,207C497,216.941 488.941,225 479,225L417,225C407.059,225 399,216.941 399,207L399,49C399,39.059 407.059,31 417,31" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+            <path id="Phone-speaker" affinity:id="Phone speaker" d="M432,49L464,49" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+            <circle id="Phone-camera" affinity:id="Phone camera" cx="473" cy="49" r="3" style="fill:rgb(15,39,65);"/>
+            <path id="Phone-home-gesture" affinity:id="Phone home gesture" d="M430,205L466,205" style="fill:none;stroke:rgb(0,120,212);stroke-width:5px;"/>
+        </g>
+    </g>
+</svg>

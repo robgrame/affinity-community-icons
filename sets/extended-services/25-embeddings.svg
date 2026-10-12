@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-960)">
+        <rect id="AI---Embeddings" affinity:id="AI - Embeddings" x="0" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="AI---Embeddings1" affinity:id="AI - Embeddings">
+            <path id="Embedding-vector-0-0" affinity:id="Embedding vector 0-0" d="M75,1035L108,1035C111.314,1035 114,1037.686 114,1041L114,1066C114,1069.314 111.314,1072 108,1072L75,1072C71.686,1072 69,1069.314 69,1066L69,1041C69,1037.686 71.686,1035 75,1035" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-0-0" affinity:id="Vector coordinate 0-0" cx="83" cy="1053" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-0-0" affinity:id="Vector coordinate value 0-0" d="M93,1048L106,1048M93,1058L103,1058" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-0-1" affinity:id="Embedding vector 0-1" d="M134,1035L167,1035C170.314,1035 173,1037.686 173,1041L173,1066C173,1069.314 170.314,1072 167,1072L134,1072C130.686,1072 128,1069.314 128,1066L128,1041C128,1037.686 130.686,1035 134,1035" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-0-1" affinity:id="Vector coordinate 0-1" cx="142" cy="1053" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-0-1" affinity:id="Vector coordinate value 0-1" d="M152,1048L165,1048M152,1058L162,1058" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-0-2" affinity:id="Embedding vector 0-2" d="M193,1035L226,1035C229.314,1035 232,1037.686 232,1041L232,1066C232,1069.314 229.314,1072 226,1072L193,1072C189.686,1072 187,1069.314 187,1066L187,1041C187,1037.686 189.686,1035 193,1035" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-0-2" affinity:id="Vector coordinate 0-2" cx="201" cy="1053" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-0-2" affinity:id="Vector coordinate value 0-2" d="M211,1048L224,1048M211,1058L221,1058" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-1-0" affinity:id="Embedding vector 1-0" d="M75,1088L108,1088C111.314,1088 114,1090.686 114,1094L114,1119C114,1122.314 111.314,1125 108,1125L75,1125C71.686,1125 69,1122.314 69,1119L69,1094C69,1090.686 71.686,1088 75,1088" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-1-0" affinity:id="Vector coordinate 1-0" cx="83" cy="1106" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-1-0" affinity:id="Vector coordinate value 1-0" d="M93,1101L106,1101M93,1111L103,1111" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-1-1" affinity:id="Embedding vector 1-1" d="M134,1088L167,1088C170.314,1088 173,1090.686 173,1094L173,1119C173,1122.314 170.314,1125 167,1125L134,1125C130.686,1125 128,1122.314 128,1119L128,1094C128,1090.686 130.686,1088 134,1088" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-1-1" affinity:id="Vector coordinate 1-1" cx="142" cy="1106" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-1-1" affinity:id="Vector coordinate value 1-1" d="M152,1101L165,1101M152,1111L162,1111" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-1-2" affinity:id="Embedding vector 1-2" d="M193,1088L226,1088C229.314,1088 232,1090.686 232,1094L232,1119C232,1122.314 229.314,1125 226,1125L193,1125C189.686,1125 187,1122.314 187,1119L187,1094C187,1090.686 189.686,1088 193,1088" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-1-2" affinity:id="Vector coordinate 1-2" cx="201" cy="1106" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-1-2" affinity:id="Vector coordinate value 1-2" d="M211,1101L224,1101M211,1111L221,1111" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-2-0" affinity:id="Embedding vector 2-0" d="M75,1141L108,1141C111.314,1141 114,1143.686 114,1147L114,1172C114,1175.314 111.314,1178 108,1178L75,1178C71.686,1178 69,1175.314 69,1172L69,1147C69,1143.686 71.686,1141 75,1141" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-2-0" affinity:id="Vector coordinate 2-0" cx="83" cy="1159" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-2-0" affinity:id="Vector coordinate value 2-0" d="M93,1154L106,1154M93,1164L103,1164" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-2-1" affinity:id="Embedding vector 2-1" d="M134,1141L167,1141C170.314,1141 173,1143.686 173,1147L173,1172C173,1175.314 170.314,1178 167,1178L134,1178C130.686,1178 128,1175.314 128,1172L128,1147C128,1143.686 130.686,1141 134,1141" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-2-1" affinity:id="Vector coordinate 2-1" cx="142" cy="1159" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-2-1" affinity:id="Vector coordinate value 2-1" d="M152,1154L165,1154M152,1164L162,1164" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+            <path id="Embedding-vector-2-2" affinity:id="Embedding vector 2-2" d="M193,1141L226,1141C229.314,1141 232,1143.686 232,1147L232,1172C232,1175.314 229.314,1178 226,1178L193,1178C189.686,1178 187,1175.314 187,1172L187,1147C187,1143.686 189.686,1141 193,1141" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Vector-coordinate-2-2" affinity:id="Vector coordinate 2-2" cx="201" cy="1159" r="4" style="fill:rgb(0,120,212);"/>
+            <path id="Vector-coordinate-value-2-2" affinity:id="Vector coordinate value 2-2" d="M211,1154L224,1154M211,1164L221,1164" style="fill:none;stroke:rgb(15,39,65);stroke-width:3px;"/>
+        </g>
+    </g>
+</svg>

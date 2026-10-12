@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-640)">
+        <rect id="Azure-Services---Azure-Kubernetes-Service" affinity:id="Azure Services - Azure Kubernetes Service" x="640" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="Azure-Services---Azure-Kubernetes-Service1" affinity:id="Azure Services - Azure Kubernetes Service">
+            <path id="Cluster-control-link-1" affinity:id="Cluster control link 1" d="M768,703L715,751" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-control-link-2" affinity:id="Cluster control link 2" d="M768,703L821,751" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-control-link-3" affinity:id="Cluster control link 3" d="M768,703L695,813" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-control-link-4" affinity:id="Cluster control link 4" d="M768,703L747,824" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-control-link-5" affinity:id="Cluster control link 5" d="M768,703L795,824" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-control-link-6" affinity:id="Cluster control link 6" d="M768,703L842,813" style="fill:none;stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <path id="Cluster-workload-0" affinity:id="Cluster workload 0" d="M758,691L778,691C780.209,691 782,692.791 782,695L782,711C782,713.209 780.209,715 778,715L758,715C755.791,715 754,713.209 754,711L754,695C754,692.791 755.791,691 758,691" style="fill:rgb(218,237,251);stroke:rgb(0,120,212);stroke-width:4px;"/>
+            <circle id="Cluster-pod-0" affinity:id="Cluster pod 0" cx="768" cy="703" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-1" affinity:id="Cluster workload 1" d="M705,739L725,739C727.209,739 729,740.791 729,743L729,759C729,761.209 727.209,763 725,763L705,763C702.791,763 701,761.209 701,759L701,743C701,740.791 702.791,739 705,739" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-1" affinity:id="Cluster pod 1" cx="715" cy="751" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-2" affinity:id="Cluster workload 2" d="M811,739L831,739C833.209,739 835,740.791 835,743L835,759C835,761.209 833.209,763 831,763L811,763C808.791,763 807,761.209 807,759L807,743C807,740.791 808.791,739 811,739" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-2" affinity:id="Cluster pod 2" cx="821" cy="751" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-3" affinity:id="Cluster workload 3" d="M685,801L705,801C707.209,801 709,802.791 709,805L709,821C709,823.209 707.209,825 705,825L685,825C682.791,825 681,823.209 681,821L681,805C681,802.791 682.791,801 685,801" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-3" affinity:id="Cluster pod 3" cx="695" cy="813" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-4" affinity:id="Cluster workload 4" d="M737,812L757,812C759.209,812 761,813.791 761,816L761,832C761,834.209 759.209,836 757,836L737,836C734.791,836 733,834.209 733,832L733,816C733,813.791 734.791,812 737,812" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-4" affinity:id="Cluster pod 4" cx="747" cy="824" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-5" affinity:id="Cluster workload 5" d="M785,812L805,812C807.209,812 809,813.791 809,816L809,832C809,834.209 807.209,836 805,836L785,836C782.791,836 781,834.209 781,832L781,816C781,813.791 782.791,812 785,812" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-5" affinity:id="Cluster pod 5" cx="795" cy="824" r="3" style="fill:rgb(0,120,212);"/>
+            <path id="Cluster-workload-6" affinity:id="Cluster workload 6" d="M832,801L852,801C854.209,801 856,802.791 856,805L856,821C856,823.209 854.209,825 852,825L832,825C829.791,825 828,823.209 828,821L828,805C828,802.791 829.791,801 832,801" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Cluster-pod-6" affinity:id="Cluster pod 6" cx="842" cy="813" r="3" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

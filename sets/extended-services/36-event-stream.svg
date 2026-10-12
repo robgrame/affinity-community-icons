@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-1280)">
+        <rect id="Cloud-Services---Event-stream" affinity:id="Cloud Services - Event stream" x="960" y="1280" width="256" height="256" style="fill:none;"/>
+        <g id="Cloud-Services---Event-stream1" affinity:id="Cloud Services - Event stream">
+            <circle id="Stream-event-0" affinity:id="Stream event 0" cx="1015" cy="1408" r="8" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Stream-event-1" affinity:id="Stream event 1" cx="1044" cy="1408" r="8" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Stream-event-2" affinity:id="Stream event 2" cx="1073" cy="1408" r="8" style="fill:rgb(0,120,212);stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Stream-event-3" affinity:id="Stream event 3" cx="1102" cy="1408" r="8" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Stream-event-4" affinity:id="Stream event 4" cx="1131" cy="1408" r="8" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <circle id="Stream-event-5" affinity:id="Stream event 5" cx="1160" cy="1408" r="8" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+            <path id="Stream-waveform" affinity:id="Stream waveform" d="M1013,1380C1038,1346 1061,1353 1079,1388C1100,1431 1118,1464 1164,1425" style="fill:none;stroke:rgb(0,120,212);stroke-width:6px;"/>
+            <path id="Stream-baseline" affinity:id="Stream baseline" d="M1014,1465L1162,1465" style="fill:none;stroke:rgb(15,39,65);stroke-width:4px;"/>
+        </g>
+    </g>
+</svg>
