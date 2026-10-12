@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-320)">
+        <rect id="_05---Network---Topology" affinity:id="05 - Network / Topology" x="0" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_05---Network---Topology1" affinity:id="05 - Network / Topology">
+            <path id="Network-backbone" affinity:id="Network backbone" d="M128,411L128,452M52,452L204,452M52,452L52,480M128,452L128,480M204,452L204,480" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Network-controller" affinity:id="Network controller" d="M107,360L149,360C153.418,360 157,363.582 157,368L157,402C157,406.418 153.418,410 149,410L107,410C102.582,410 99,406.418 99,402L99,368C99,363.582 102.582,360 107,360Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Endpoint-nodes" affinity:id="Endpoint nodes" d="M34,480L70,480C74.418,480 78,483.582 78,488L78,522C78,526.418 74.418,530 70,530L34,530C29.582,530 26,526.418 26,522L26,488C26,483.582 29.582,480 34,480ZM110,480L146,480C150.418,480 154,483.582 154,488L154,522C154,526.418 150.418,530 146,530L110,530C105.582,530 102,526.418 102,522L102,488C102,483.582 105.582,480 110,480ZM186,480L222,480C226.418,480 230,483.582 230,488L230,522C230,526.418 226.418,530 222,530L186,530C181.582,530 178,526.418 178,522L178,488C178,483.582 181.582,480 186,480Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

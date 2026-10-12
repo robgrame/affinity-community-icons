@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,0)">
+        <rect id="_03---Device---Compliance" affinity:id="03 - Device / Compliance" x="640" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_03---Device---Compliance1" affinity:id="03 - Device / Compliance">
+            <path id="Display-outline" affinity:id="Display outline" d="M686,48L850,48C855.523,48 860,52.477 860,58L860,164C860,169.523 855.523,174 850,174L686,174C680.477,174 676,169.523 676,164L676,58C676,52.477 680.477,48 686,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Display-stand" affinity:id="Display stand" d="M768,174L768,204M734,204L802,204" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Compliance-shield" affinity:id="Compliance shield" d="M768,72L800,83.7L800,107.88C800,126.6 783.36,140.64 768,150C752.64,140.64 736,126.6 736,107.88L736,83.7L768,72Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Compliance-check" affinity:id="Compliance check" d="M750,112L762,124L786,98" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

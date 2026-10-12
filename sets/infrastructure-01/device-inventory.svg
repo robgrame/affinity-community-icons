@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="_02---Device---Inventory" affinity:id="02 - Device / Inventory" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_02---Device---Inventory1" affinity:id="02 - Device / Inventory">
+            <path id="Inventory-laptop" affinity:id="Inventory laptop" d="M356,48L452,48C456.418,48 460,51.582 460,56L460,124C460,128.418 456.418,132 452,132L356,132C351.582,132 348,128.418 348,124L348,56C348,51.582 351.582,48 356,48ZM348,132L344,148L464,148L460,132" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Inventory-tablet" affinity:id="Inventory tablet" d="M498,48L540,48C544.418,48 548,51.582 548,56L548,140C548,144.418 544.418,148 540,148L498,148C493.582,148 490,144.418 490,140L490,56C490,51.582 493.582,48 498,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Inventory-phone" affinity:id="Inventory phone" d="M434,174L462,174C465.314,174 468,176.686 468,180L468,226C468,229.314 465.314,232 462,232L434,232C430.686,232 428,229.314 428,226L428,180C428,176.686 430.686,174 434,174Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Device-home-indicators" affinity:id="Device home indicators" d="M510,134L528,134M441,220L455,220" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

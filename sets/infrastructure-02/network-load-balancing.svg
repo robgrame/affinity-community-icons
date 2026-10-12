@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-320)">
+        <rect id="_08---Network---Load-balancing" affinity:id="08 - Network / Load balancing" x="960" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_08---Network---Load-balancing1" affinity:id="08 - Network / Load balancing">
+            <path id="Load-balancer" affinity:id="Load balancer" d="M1059,354L1117,354C1121.418,354 1125,357.582 1125,362L1125,394C1125,398.418 1121.418,402 1117,402L1059,402C1054.582,402 1051,398.418 1051,394L1051,362C1051,357.582 1054.582,354 1059,354Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Traffic-fan-out" affinity:id="Traffic fan-out" d="M1088,402L1088,440M1010,440L1166,440M1010,440L1010,476M1088,440L1088,476M1166,440L1166,476" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Balanced-traffic-arrows" affinity:id="Balanced traffic arrows" d="M998,464L1010,476L1022,464M1076,464L1088,476L1100,464M1154,464L1166,476L1178,464" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Backend-server-pool" affinity:id="Backend server pool" d="M994,495L1026,495C1029.314,495 1032,497.686 1032,501L1032,532C1032,535.314 1029.314,538 1026,538L994,538C990.686,538 988,535.314 988,532L988,501C988,497.686 990.686,495 994,495ZM1072,495L1104,495C1107.314,495 1110,497.686 1110,501L1110,532C1110,535.314 1107.314,538 1104,538L1072,538C1068.686,538 1066,535.314 1066,532L1066,501C1066,497.686 1068.686,495 1072,495ZM1150,495L1182,495C1185.314,495 1188,497.686 1188,501L1188,532C1188,535.314 1185.314,538 1182,538L1150,538C1146.686,538 1144,535.314 1144,532L1144,501C1144,497.686 1146.686,495 1150,495Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Balancer-policy" affinity:id="Balancer policy" d="M1070,378L1106,378" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

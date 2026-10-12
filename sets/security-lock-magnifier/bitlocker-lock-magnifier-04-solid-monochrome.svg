@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-400,-400)">
+        <rect id="_04---Solid-Monochrome" affinity:id="04 - Solid Monochrome" x="400" y="400" width="320" height="320" style="fill:none;"/>
+        <g id="_04---Solid-Monochrome1" affinity:id="04 - Solid Monochrome">
+            <path id="Lock---Shackle" affinity:id="Lock - Shackle" d="M476,512L476,488C476,434 556,434 556,488L556,512L542,512L542,488C542,453 490,453 490,488L490,512L476,512Z" style="fill:rgb(23,42,67);"/>
+            <path id="Lock---Solid-body---transparent-keyhole" affinity:id="Lock - Solid body / transparent keyhole" d="M476,512L558,512C569,512 578,521 578,532L578,538C549,541 526,565 526,594C526,608 531,622 540,632L476,632C465,632 456,623 456,612L456,532C456,521 465,512 476,512ZM510,559C504,559 499,564 499,570C499,575 502,579 505,580L503,593C503,596 517,596 517,593L515,580C518,579 521,575 521,570C521,564 516,559 510,559Z" style="fill:rgb(23,42,67);"/>
+            <path id="Magnifier---Handle" affinity:id="Magnifier - Handle" d="M609,625L640,656C643,659 648,659 651,656C654,653 654,648 651,645L620,614L609,625Z" style="fill:rgb(23,42,67);"/>
+            <path id="Magnifier---Transparent-lens" affinity:id="Magnifier - Transparent lens" d="M629,594C629,618.853 608.853,639 584,639C559.147,639 539,618.853 539,594C539,569.147 559.147,549 584,549C608.853,549 629,569.147 629,594ZM615,594C615,576.879 601.121,563 584,563C566.879,563 553,576.879 553,594C553,611.121 566.879,625 584,625C601.121,625 615,611.121 615,594Z" style="fill:rgb(23,42,67);"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-960)">
+        <rect id="_14---AI---Data-pipeline" affinity:id="14 - AI / Data pipeline" x="320" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_14---AI---Data-pipeline1" affinity:id="14 - AI / Data pipeline">
+            <path id="Training-data-input" affinity:id="Training data input" d="M356,1038L390,1038C394.418,1038 398,1041.582 398,1046L398,1130C398,1134.418 394.418,1138 390,1138L356,1138C351.582,1138 348,1134.418 348,1130L348,1046C348,1041.582 351.582,1038 356,1038Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Input-data-rows" affinity:id="Input data rows" d="M361,1062L385,1062M361,1088L385,1088M361,1114L385,1114" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="AI-pipeline-connector" affinity:id="AI pipeline connector" d="M416,1088L464,1088M448,1072L464,1088L448,1104" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Trained-intelligence-package" affinity:id="Trained intelligence package" d="M496,1032L538,1032C543.523,1032 548,1036.477 548,1042L548,1134C548,1139.523 543.523,1144 538,1144L496,1144C490.477,1144 486,1139.523 486,1134L486,1042C486,1036.477 490.477,1032 496,1032Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Pipeline-intelligence-output" affinity:id="Pipeline intelligence output" d="M517,1067L522.67,1082.33L538,1088L522.67,1093.67L517,1109L511.33,1093.67L496,1088L511.33,1082.33L517,1067Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

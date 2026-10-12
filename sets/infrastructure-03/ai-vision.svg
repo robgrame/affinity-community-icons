@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-960)">
+        <rect id="_14---AI---Vision" affinity:id="14 - AI / Vision" x="320" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_14---AI---Vision1" affinity:id="14 - AI / Vision">
+            <path id="Vision-eye" affinity:id="Vision eye" d="M348,1088C398,1014 498,1014 548,1088C498,1162 398,1162 348,1088Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <circle id="Vision-iris" affinity:id="Vision iris" cx="448" cy="1088" r="35" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Vision-intelligence" affinity:id="Vision intelligence" d="M448,1071L452.59,1083.41L465,1088L452.59,1092.59L448,1105L443.41,1092.59L431,1088L443.41,1083.41L448,1071Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

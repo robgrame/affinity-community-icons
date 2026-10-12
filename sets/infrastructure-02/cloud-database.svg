@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-640)">
+        <rect id="_11---Cloud---Database" affinity:id="11 - Cloud / Database" x="640" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_11---Cloud---Database1" affinity:id="11 - Cloud / Database">
+            <path id="Database-cloud-endpoint" affinity:id="Database cloud endpoint" d="M763.8,727.28L831.92,727.28C844.4,727.28 850.64,720 850.64,710.12C850.64,699.2 841.8,691.4 830.88,691.92C827.24,676.32 815.28,668 802.28,668C787.2,668 775.76,678.4 773.16,691.92C758.6,687.76 742.48,695.56 742.48,710.64C742.48,720.52 751.84,727.28 763.8,727.28Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Cloud-database-connection" affinity:id="Cloud database connection" d="M796,728L796,759" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Database-body" affinity:id="Database body" d="M764,759C805.946,759 840,764.377 840,771C840,777.623 805.946,783 764,783C722.054,783 688,777.623 688,771C688,764.377 722.054,759 764,759ZM688,771L688,844C688,860 840,860 840,844L840,771" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Database-row-156" affinity:id="Database row 156" d="M688,796C688,812 840,812 840,796" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Database-row-183" affinity:id="Database row 183" d="M688,823C688,839 840,839 840,823" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

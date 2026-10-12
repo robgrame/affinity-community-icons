@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-960)">
+        <rect id="_14---AI---Neural-network" affinity:id="14 - AI / Neural network" x="320" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_14---AI---Neural-network1" affinity:id="14 - AI / Neural network">
+            <path id="Neural-connections" affinity:id="Neural connections" d="M384,1032L436,1008M384,1032L436,1088M384,1032L436,1168M384,1144L436,1008M384,1144L436,1088M384,1144L436,1168M460,1008L512,1048M460,1008L512,1128M460,1088L512,1048M460,1088L512,1128M460,1168L512,1048M460,1168L512,1128" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Input-and-output-neurons" affinity:id="Input and output neurons" d="M372,1020C378.623,1020 384,1025.377 384,1032C384,1038.623 378.623,1044 372,1044C365.377,1044 360,1038.623 360,1032C360,1025.377 365.377,1020 372,1020ZM372,1132C378.623,1132 384,1137.377 384,1144C384,1150.623 378.623,1156 372,1156C365.377,1156 360,1150.623 360,1144C360,1137.377 365.377,1132 372,1132ZM524,1036C530.623,1036 536,1041.377 536,1048C536,1054.623 530.623,1060 524,1060C517.377,1060 512,1054.623 512,1048C512,1041.377 517.377,1036 524,1036ZM524,1116C530.623,1116 536,1121.377 536,1128C536,1134.623 530.623,1140 524,1140C517.377,1140 512,1134.623 512,1128C512,1121.377 517.377,1116 524,1116Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Hidden-layer-neurons" affinity:id="Hidden layer neurons" d="M448,996C454.623,996 460,1001.377 460,1008C460,1014.623 454.623,1020 448,1020C441.377,1020 436,1014.623 436,1008C436,1001.377 441.377,996 448,996ZM448,1076C454.623,1076 460,1081.377 460,1088C460,1094.623 454.623,1100 448,1100C441.377,1100 436,1094.623 436,1088C436,1081.377 441.377,1076 448,1076ZM448,1156C454.623,1156 460,1161.377 460,1168C460,1174.623 454.623,1180 448,1180C441.377,1180 436,1174.623 436,1168C436,1161.377 441.377,1156 448,1156Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

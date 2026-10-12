@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-640)">
+        <rect id="_09---Cloud---Containers" affinity:id="09 - Cloud / Containers" x="0" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_09---Cloud---Containers1" affinity:id="09 - Cloud / Containers">
+            <path id="Container-cloud" affinity:id="Container cloud" d="M89.3,741.68L170.52,741.68C185.4,741.68 192.84,733 192.84,721.22C192.84,708.2 182.3,698.9 169.28,699.52C164.94,680.92 150.68,671 135.18,671C117.2,671 103.56,683.4 100.46,699.52C83.1,694.56 63.88,703.86 63.88,721.84C63.88,733.62 75.04,741.68 89.3,741.68Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Container-service-link" affinity:id="Container service link" d="M128,743L128,772" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Container-units" affinity:id="Container units" d="M48,783L86,783C89.314,783 92,785.686 92,789L92,847C92,850.314 89.314,853 86,853L48,853C44.686,853 42,850.314 42,847L42,789C42,785.686 44.686,783 48,783ZM109,783L147,783C150.314,783 153,785.686 153,789L153,847C153,850.314 150.314,853 147,853L109,853C105.686,853 103,850.314 103,847L103,789C103,785.686 105.686,783 109,783ZM170,783L208,783C211.314,783 214,785.686 214,789L214,847C214,850.314 211.314,853 208,853L170,853C166.686,853 164,850.314 164,847L164,789C164,785.686 166.686,783 170,783Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Container-ribs" affinity:id="Container ribs" d="M58,800L58,835M76,800L76,835M119,800L119,835M137,800L137,835M180,800L180,835M198,800L198,835" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

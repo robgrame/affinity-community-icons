@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="OUTCOME" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="OUTCOME1" affinity:id="OUTCOME">
+            <path id="Off-white-graph-paper" affinity:id="Off-white graph paper" d="M352,40L544,40C548.418,40 552,43.582 552,48L552,208C552,212.418 548.418,216 544,216L352,216C347.582,216 344,212.418 344,208L344,48C344,43.582 347.582,40 352,40Z" style="fill:rgb(250,250,247);"/>
+            <path id="Grid---minor-8-px-divisions" affinity:id="Grid - minor 8 px divisions" d="M352,48L352,208M360,48L360,208M368,48L368,208M376,48L376,208M392,48L392,208M400,48L400,208M408,48L408,208M416,48L416,208M432,48L432,208M440,48L440,208M448,48L448,208M456,48L456,208M472,48L472,208M480,48L480,208M488,48L488,208M496,48L496,208M512,48L512,208M520,48L520,208M528,48L528,208M536,48L536,208M352,56L544,56M352,64L544,64M352,72L544,72M352,80L544,80M352,96L544,96M352,104L544,104M352,112L544,112M352,120L544,120M352,136L544,136M352,144L544,144M352,152L544,152M352,160L544,160M352,176L544,176M352,184L544,184M352,192L544,192M352,200L544,200" style="fill:none;stroke:rgb(224,230,235);stroke-width:0.65px;"/>
+            <path id="Grid---major-40-px-divisions" affinity:id="Grid - major 40 px divisions" d="M384,48L384,208M424,48L424,208M464,48L464,208M504,48L504,208M544,48L544,208M352,48L544,48M352,88L544,88M352,128L544,128M352,168L544,168M352,208L544,208" style="fill:none;stroke:rgb(197,209,220);stroke-width:1px;"/>
+            <path id="Graph-paper-frame" affinity:id="Graph paper frame" d="M352,40L544,40C548.418,40 552,43.582 552,48L552,208C552,212.418 548.418,216 544,216L352,216C347.582,216 344,212.418 344,208L344,48C344,43.582 347.582,40 352,40Z" style="fill:none;stroke:rgb(197,209,220);stroke-width:1.5px;"/>
+            <path id="Trace---one-positive-and-one-negative-spike" affinity:id="Trace - one positive and one negative spike" d="M356,128L385,128L404,72L423,128L465,128L485,184L505,128L540,128" style="fill:none;stroke:rgb(15,39,65);stroke-width:7px;"/>
+        </g>
+    </g>
+</svg>

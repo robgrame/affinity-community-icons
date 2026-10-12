@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-960)">
+        <rect id="_16---AI---Insights" affinity:id="16 - AI / Insights" x="960" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_16---AI---Insights1" affinity:id="16 - AI / Insights">
+            <path id="Insights-axes" affinity:id="Insights axes" d="M1002,1026L1002,1170L1174,1170" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Insight-trend" affinity:id="Insight trend" d="M1026,1138L1060,1102L1089,1117L1137,1068" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Trend-direction" affinity:id="Trend direction" d="M1117,1068L1137,1068L1137,1088" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="AI-insight-spark" affinity:id="AI insight spark" d="M1150,994L1156.75,1012.25L1175,1019L1156.75,1025.75L1150,1044L1143.25,1025.75L1125,1019L1143.25,1012.25L1150,994Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

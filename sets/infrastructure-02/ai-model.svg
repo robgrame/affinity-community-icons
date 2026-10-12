@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-960)">
+        <rect id="_13---AI---Model" affinity:id="13 - AI / Model" x="0" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_13---AI---Model1" affinity:id="13 - AI / Model">
+            <path id="Model-package-top" affinity:id="Model package top" d="M128,1000L208,1044L128,1088L48,1044L128,1000" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Model-package-volume" affinity:id="Model package volume" d="M48,1044L48,1136L128,1180L208,1136L208,1044M128,1088L128,1180" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="AI-model-intelligence" affinity:id="AI model intelligence" d="M128,1020L134.21,1036.79L151,1043L134.21,1049.21L128,1066L121.79,1049.21L105,1043L121.79,1036.79L128,1020Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Model-version-marker" affinity:id="Model version marker" d="M72,1106L100,1122" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

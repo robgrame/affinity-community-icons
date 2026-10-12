@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <rect id="_01---Device---Management" affinity:id="01 - Device / Management" x="0" y="0" width="256" height="256" style="fill:none;"/>
+    <g id="_01---Device---Management1" affinity:id="01 - Device / Management">
+        <path id="Display-outline" affinity:id="Display outline" d="M46,48L210,48C215.523,48 220,52.477 220,58L220,164C220,169.523 215.523,174 210,174L46,174C40.477,174 36,169.523 36,164L36,58C36,52.477 40.477,48 46,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Display-stand" affinity:id="Display stand" d="M128,174L128,204M94,204L162,204" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Management-control-rails" affinity:id="Management control rails" d="M74,90L182,90M74,132L182,132" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Management-slider-handles" affinity:id="Management slider handles" d="M101,78L111,78C113.761,78 116,80.239 116,83L116,97C116,99.761 113.761,102 111,102L101,102C98.239,102 96,99.761 96,97L96,83C96,80.239 98.239,78 101,78ZM151,120L161,120C163.761,120 166,122.239 166,125L166,139C166,141.761 163.761,144 161,144L151,144C148.239,144 146,141.761 146,139L146,125C146,122.239 148.239,120 151,120Z" style="fill:rgb(0,120,212);"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-320)">
+        <rect id="_07---Network---Routing" affinity:id="07 - Network / Routing" x="640" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_07---Network---Routing1" affinity:id="07 - Network / Routing">
+            <circle id="Routing-junction" affinity:id="Routing junction" cx="768" cy="447" r="20" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Routing-branches" affinity:id="Routing branches" d="M788,447L825,447L825,375M788,447L825,447L825,524" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Routing-destination-arrows" affinity:id="Routing destination arrows" d="M810,390L825,375L840,390M810,509L825,524L840,509" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Ingress-path---toward-routing-junction" affinity:id="Ingress path - toward routing junction" d="M672,447L740,447M727,434L740,447L727,460" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

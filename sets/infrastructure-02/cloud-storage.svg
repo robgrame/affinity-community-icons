@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-640)">
+        <rect id="_09---Cloud---Storage" affinity:id="09 - Cloud / Storage" x="0" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_09---Cloud---Storage1" affinity:id="09 - Cloud / Storage">
+            <path id="Cloud-storage-outline" affinity:id="Cloud storage outline" d="M85.2,751.52L174.28,751.52C190.6,751.52 198.76,742 198.76,729.08C198.76,714.8 187.2,704.6 172.92,705.28C168.16,684.88 152.52,674 135.52,674C115.8,674 100.84,687.6 97.44,705.28C78.4,699.84 57.32,710.04 57.32,729.76C57.32,742.68 69.56,751.52 85.2,751.52Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Storage-connection" affinity:id="Storage connection" d="M128,752L128,780" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Storage-volume" affinity:id="Storage volume" d="M128,780C160.011,780 186,785.377 186,792C186,798.623 160.011,804 128,804C95.989,804 70,798.623 70,792C70,785.377 95.989,780 128,780ZM70,792L70,848C70,864 186,864 186,848L186,792" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Storage-tier-divider" affinity:id="Storage tier divider" d="M70,817C70,833 186,833 186,817" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

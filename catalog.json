@@ -1,0 +1,757 @@
+{
+  "version": "1.0.1",
+  "svg_variants": 60,
+  "native_documents": 8,
+  "files": [
+    {
+      "path": "sets/infrastructure-01/Infrastructure-Device-Network-Cloud-AI-Icons-v1.0.1.af",
+      "sha256": "1cabe67f0aebc4d0136c25b3942791d377ed48e4cdeeedf2cecfb694bf091477",
+      "bytes": 101548
+    },
+    {
+      "path": "sets/infrastructure-01/ai-assistant.png",
+      "sha256": "0a38fd7c7895ace5edea55444d8bfed269dc044cc1b47d07e1c30c7a5a3b1453",
+      "bytes": 4919
+    },
+    {
+      "path": "sets/infrastructure-01/ai-assistant.svg",
+      "sha256": "060d3ab409ab978cd0a64417979462b54e3fc2178ae0559440769fb4b774e66f",
+      "bytes": 1951
+    },
+    {
+      "path": "sets/infrastructure-01/ai-automation.png",
+      "sha256": "d2132da79749d7f2cb4acdbdf83c7d36b806b4e20d501fdea6370047d363fe39",
+      "bytes": 9759
+    },
+    {
+      "path": "sets/infrastructure-01/ai-automation.svg",
+      "sha256": "70719948e473365453ca492a3cde292abdc3c1abcdc219455d76ff775525bc2a",
+      "bytes": 1752
+    },
+    {
+      "path": "sets/infrastructure-01/ai-neural-network.png",
+      "sha256": "475c9a21096a75726dd814ae6a1f8adbf9ee16c09e17d3488ae64aef09901f7b",
+      "bytes": 11040
+    },
+    {
+      "path": "sets/infrastructure-01/ai-neural-network.svg",
+      "sha256": "a6857c5562a124e8b39f2d3b41c18d3e8f901deae55a8c7bf32c2d8065a3d294",
+      "bytes": 2447
+    },
+    {
+      "path": "sets/infrastructure-01/ai-processor.png",
+      "sha256": "f4283594a158014c1f4e5a9f18c9ac1f0f617b9460600aa0852ffc0f6130d019",
+      "bytes": 4848
+    },
+    {
+      "path": "sets/infrastructure-01/ai-processor.svg",
+      "sha256": "abafb22abc2e7732e8374483cb9abbff803391716eddf6471db6008b38568579",
+      "bytes": 1657
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-hybrid.png",
+      "sha256": "a38df057d845b5e468ff9438fb8cdc947acb08b20819446b88fad2301a29c737",
+      "bytes": 4885
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-hybrid.svg",
+      "sha256": "1255d70ab4a8b5a845282b65b7a3efb409522f4585680142119753c5dcae0b74",
+      "bytes": 2477
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-security.png",
+      "sha256": "43ecfe6178a75b73e16fe90dac018a0700c67f3317dd706de8d687aedeb6dee8",
+      "bytes": 7175
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-security.svg",
+      "sha256": "c231a643373bdb29fb24f452f4b2227db66cf3f8e63a88339a9da27c9f92049b",
+      "bytes": 1501
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-services.png",
+      "sha256": "736ed57f74f1758ebb5d381500d388851dc5e40f1f26d58b03b51bafce1ff71a",
+      "bytes": 5899
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-services.svg",
+      "sha256": "4f0854cc2d6d615838dd03301c8ddefbb630627fd8eef1402d0fc9ca2bd15c2d",
+      "bytes": 1805
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-upload.png",
+      "sha256": "a2bab10aa7ad8a1014d510f0c771213efe5afa302c8de63c333f0db0ba51c2a9",
+      "bytes": 5976
+    },
+    {
+      "path": "sets/infrastructure-01/cloud-upload.svg",
+      "sha256": "d1950ff4b3eb55ffcc387abe78a0c7d8957d7bc9e1dc108848541992b4273b87",
+      "bytes": 1531
+    },
+    {
+      "path": "sets/infrastructure-01/device-compliance.png",
+      "sha256": "56d3cd5fedc4732a05b70f4173606d07d7c266c89b7dc668dca1fb10a83c8ea5",
+      "bytes": 4633
+    },
+    {
+      "path": "sets/infrastructure-01/device-compliance.svg",
+      "sha256": "932b5206543d47059e4fd7f87184ebb9aa91f5b17352a70b6b972d7d52dbb05e",
+      "bytes": 1637
+    },
+    {
+      "path": "sets/infrastructure-01/device-deployment.png",
+      "sha256": "b0d30e04e71a770054de6aa6869a4a2dd0624e4c7d76f19b78e0ecb6f4f7f504",
+      "bytes": 3279
+    },
+    {
+      "path": "sets/infrastructure-01/device-deployment.svg",
+      "sha256": "4df41f65ea69617442a5e3b01571989d4f45451507e82c365ac194fb7665a02e",
+      "bytes": 1588
+    },
+    {
+      "path": "sets/infrastructure-01/device-inventory.png",
+      "sha256": "5905f4c9c852459537e3e1559b71118e7a54430141709ff84e1e8b4dad07f676",
+      "bytes": 3050
+    },
+    {
+      "path": "sets/infrastructure-01/device-inventory.svg",
+      "sha256": "eab8198007ae7b8f3828a2bc7abce4061092f232d099cfeae35b496f0a882efd",
+      "bytes": 1876
+    },
+    {
+      "path": "sets/infrastructure-01/device-management.png",
+      "sha256": "61c47f14b29e7c92bbfde74a999b58309a718079c12bef90a2cb3fa98b7f05bf",
+      "bytes": 2721
+    },
+    {
+      "path": "sets/infrastructure-01/device-management.svg",
+      "sha256": "1821e315de20b74c4d0e8d542cac5909070310eb5ca8a330e1b6533d329e8e33",
+      "bytes": 1760
+    },
+    {
+      "path": "sets/infrastructure-01/infrastructure-icons-preview.png",
+      "sha256": "2484cec9849b35cbd1d760a423cb26f5c999cf83acafe4b780fa762949798a9f",
+      "bytes": 206286
+    },
+    {
+      "path": "sets/infrastructure-01/network-firewall.png",
+      "sha256": "2589508b7d7e6f847d7937fd343810659b195ad2bd9995dadcc36c5eca8e2eb5",
+      "bytes": 2861
+    },
+    {
+      "path": "sets/infrastructure-01/network-firewall.svg",
+      "sha256": "0c64d09d87a0912bbf510131de14968cdf64147463735f8774183d7421ef26f7",
+      "bytes": 1548
+    },
+    {
+      "path": "sets/infrastructure-01/network-internet.png",
+      "sha256": "b005f71f0a47b09cd9d64f02e9f66fa369983f478f621f9dc38dfe08f429e451",
+      "bytes": 9573
+    },
+    {
+      "path": "sets/infrastructure-01/network-internet.svg",
+      "sha256": "41539c3c84c619de0fa75e6f79d83b04f841cc4d4b685d1c6452e908facaeb59",
+      "bytes": 1301
+    },
+    {
+      "path": "sets/infrastructure-01/network-topology.png",
+      "sha256": "3218becc2fc52c6830a9fea4ab16307e3e67ce2ea5f1d67b834958a9aa23a2c5",
+      "bytes": 2654
+    },
+    {
+      "path": "sets/infrastructure-01/network-topology.svg",
+      "sha256": "3a52f9e18eb93cc8569412a17701afa0b5dfdf803cfba21ade890f3f7d3a5601",
+      "bytes": 1909
+    },
+    {
+      "path": "sets/infrastructure-01/network-wireless.png",
+      "sha256": "78417af453ce23f0122d94f0d072906ae234f4f74064dfd53fe495ba9f72b7f7",
+      "bytes": 4848
+    },
+    {
+      "path": "sets/infrastructure-01/network-wireless.svg",
+      "sha256": "cc5dc37aae605512f27c76ce3aac910eab9ba513ee4a9c34c519c80b8ef26448",
+      "bytes": 1962
+    },
+    {
+      "path": "sets/infrastructure-02/Infrastructure-Device-Network-Cloud-AI-Extended-v1.0.1.af",
+      "sha256": "690ca77322ae244e418f250dcc60425c436745b09dc6567792c301e3018099dc",
+      "bytes": 93239
+    },
+    {
+      "path": "sets/infrastructure-02/ai-data-pipeline.png",
+      "sha256": "e56dcc0d6cabafec20483a3e452882cf72984bb77c696ad6eff8d29ac19944ca",
+      "bytes": 4053
+    },
+    {
+      "path": "sets/infrastructure-02/ai-data-pipeline.svg",
+      "sha256": "ad0a8973e02e06c100b235d868bc2a0987cbed683dabb532f49fdfc2468c19d9",
+      "bytes": 2093
+    },
+    {
+      "path": "sets/infrastructure-02/ai-insights.png",
+      "sha256": "ba30e580bb0e319e55eeb22357cc13da558e6560b4012144e99a19fe2edfdfe9",
+      "bytes": 4505
+    },
+    {
+      "path": "sets/infrastructure-02/ai-insights.svg",
+      "sha256": "2bbd8f85548ff4abd85ee6f37dee2723a96dd9d1b46a8ab03fa85e192f2f3c24",
+      "bytes": 1498
+    },
+    {
+      "path": "sets/infrastructure-02/ai-model.png",
+      "sha256": "04be3e42de2e94a545ec7c87a7fd9c14ddb0ceb3ea8b405783cf4a4da98f1f8f",
+      "bytes": 6257
+    },
+    {
+      "path": "sets/infrastructure-02/ai-model.svg",
+      "sha256": "f72841b57134c739dfe6f16cbb3b5a3c5eac836293ab2d9ad24b63cde5a04086",
+      "bytes": 1537
+    },
+    {
+      "path": "sets/infrastructure-02/ai-prompt.png",
+      "sha256": "241b7b06b5de21e53f7e515be4e00aa58dd5ad2a3489b445d6979a2dfd210797",
+      "bytes": 4115
+    },
+    {
+      "path": "sets/infrastructure-02/ai-prompt.svg",
+      "sha256": "2be5fb393fef3047429ea9525e4ea4b4b2c0fe510e18ec2f65693359488c7351",
+      "bytes": 1808
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-backup.png",
+      "sha256": "08d733a8ecd3472ed776a529c36bbec3831bee5dbad4009ed40bf8173184c166",
+      "bytes": 7578
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-backup.svg",
+      "sha256": "5e3df61416f746420de4c02af6d1723efaa6dc1d82a0bc9a49f1ea6f84b04eb3",
+      "bytes": 1557
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-database.png",
+      "sha256": "44004a5a833da83fdf8fcd4b0829e5052ae24acab6897950710c8ede51ab68cf",
+      "bytes": 5633
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-database.svg",
+      "sha256": "14e241da688800904fa69c71b19224395bf0fa4b6663bbe85751e459d98845b7",
+      "bytes": 1996
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-multi-region.png",
+      "sha256": "8e12c0fb91fc8e386549f6c3c56e0982c7231bf287826838e82ac60d2bd04fcc",
+      "bytes": 6473
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-multi-region.svg",
+      "sha256": "2e36d67570b48ef65eb2ee1bf1f344406054ea5a40e81fc17b0ec1eb294f028e",
+      "bytes": 2042
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-storage.png",
+      "sha256": "0bb4d930b0a7fa13553710409cc2f88fb423ba4913fbd8ac02f3c53f8b201aec",
+      "bytes": 6609
+    },
+    {
+      "path": "sets/infrastructure-02/cloud-storage.svg",
+      "sha256": "0a3a5832dde98821b229a1b37d6be76751218df87e09da4ea85d41990b426ab3",
+      "bytes": 1794
+    },
+    {
+      "path": "sets/infrastructure-02/device-diagnostics.png",
+      "sha256": "ea9b7e4dc2a628d8f943867b3581761eff3b5c31677c9c2fa74b314d4fe1d7e2",
+      "bytes": 3604
+    },
+    {
+      "path": "sets/infrastructure-02/device-diagnostics.svg",
+      "sha256": "a7cefe05ca161c4c5f7d67f0c5441e5e2368e4ed8759d33031edd38625d2d754",
+      "bytes": 1428
+    },
+    {
+      "path": "sets/infrastructure-02/device-power.png",
+      "sha256": "86496a34655ab89fc1c119deddf88b3f9066c04b7fe2f00c2b9432fcc9b14bd8",
+      "bytes": 4249
+    },
+    {
+      "path": "sets/infrastructure-02/device-power.svg",
+      "sha256": "627d11b1f01ddc6b3a55c962c7f86bf4c71176c1a439cfebadfdde695e81cd68",
+      "bytes": 1476
+    },
+    {
+      "path": "sets/infrastructure-02/device-remote-support.png",
+      "sha256": "71f1147101449db864577172d22cd610fc02cf1ca9084bcb195a3969a58371e8",
+      "bytes": 4060
+    },
+    {
+      "path": "sets/infrastructure-02/device-remote-support.svg",
+      "sha256": "130b2a48b8a683dce0189965e7741ee2e6318762f4894be277748d2aa854baae",
+      "bytes": 1767
+    },
+    {
+      "path": "sets/infrastructure-02/device-updates.png",
+      "sha256": "9eb33ad8ad637decbc0794221c83580df7a65987beeac060da3551f3a644fdb9",
+      "bytes": 4469
+    },
+    {
+      "path": "sets/infrastructure-02/device-updates.svg",
+      "sha256": "aee5ff92d3016f60e969ddc0c6defbc62c9e91f10da9e865dbc3fdc31352c68e",
+      "bytes": 1502
+    },
+    {
+      "path": "sets/infrastructure-02/infrastructure-icons-extended-preview.png",
+      "sha256": "6b44a62d520d46309cee5bf70b60f9275b1a9b8e3f6514162ebd1083f0eacc72",
+      "bytes": 204294
+    },
+    {
+      "path": "sets/infrastructure-02/network-ethernet.png",
+      "sha256": "75b1cb00c742677e640b17de515d8caf9ace3ee7cf209e19cbe0ef99d79f38b2",
+      "bytes": 2743
+    },
+    {
+      "path": "sets/infrastructure-02/network-ethernet.svg",
+      "sha256": "1f24b97c65cf53b535d64f672d9d47fef592e82639b2711dc86689fef2ef8ffa",
+      "bytes": 1619
+    },
+    {
+      "path": "sets/infrastructure-02/network-load-balancing.png",
+      "sha256": "b5a6aa76a8cd21890e6250fd0f219568277918939bb7fe3d4d579cfab32c0674",
+      "bytes": 3235
+    },
+    {
+      "path": "sets/infrastructure-02/network-load-balancing.svg",
+      "sha256": "425d7b1c99ca4a49612d8fc33f4e6b2dd8bd41792027d444aabc8a88b81e646f",
+      "bytes": 2410
+    },
+    {
+      "path": "sets/infrastructure-02/network-switch.png",
+      "sha256": "0413e19ab5f952f40858b30c2425a3ccfd287f206e48dbb411d57f1f0df9d0bc",
+      "bytes": 3056
+    },
+    {
+      "path": "sets/infrastructure-02/network-switch.svg",
+      "sha256": "ff23da2682472e06cb7c2e0f32214786f08ac0da8ec9e4dfd86f0d0edc3e8157",
+      "bytes": 2675
+    },
+    {
+      "path": "sets/infrastructure-02/network-vpn.png",
+      "sha256": "77eba9282d2c3362b6f0801184b991bde3f06bef399b7c779fc0493c3c537c2d",
+      "bytes": 5930
+    },
+    {
+      "path": "sets/infrastructure-02/network-vpn.svg",
+      "sha256": "f64f82175935576fa240453e5ad45fb940d257ed9e3921f09469238293d510c1",
+      "bytes": 1354
+    },
+    {
+      "path": "sets/infrastructure-03/Infrastructure-Device-Network-Cloud-AI-Set3-v1.0.1.af",
+      "sha256": "f78094e17719e29f868d1360184efcb3ebfc62af7d3669671399287274777bb3",
+      "bytes": 95375
+    },
+    {
+      "path": "sets/infrastructure-03/ai-agents.png",
+      "sha256": "dfb6bcb0bda073846865e128beca6a8099508ee997797f8e84168d29796d822f",
+      "bytes": 3613
+    },
+    {
+      "path": "sets/infrastructure-03/ai-agents.svg",
+      "sha256": "03a2dc5fa4260455102a2306b0dd2f832c3c8d686a7c4e9d0947de464fd7a230",
+      "bytes": 2085
+    },
+    {
+      "path": "sets/infrastructure-03/ai-guardrails.png",
+      "sha256": "857a11ae23caf63eed5c85d8665ce2af1fd4816a0795943a0e4f976a7ee500b4",
+      "bytes": 6911
+    },
+    {
+      "path": "sets/infrastructure-03/ai-guardrails.svg",
+      "sha256": "8a4e372f81ab4c4a04f4c4faf32f4ec5927db405f183ce7cdd05c61710d5af75",
+      "bytes": 1610
+    },
+    {
+      "path": "sets/infrastructure-03/ai-knowledge.png",
+      "sha256": "327c27d2f0aafd0f26ecc62425b4d23e8085c7b0d8a3dd0f50c4bdc0a1086ac7",
+      "bytes": 7777
+    },
+    {
+      "path": "sets/infrastructure-03/ai-knowledge.svg",
+      "sha256": "e9bf1711fb78dc90da202a74dc7788b6a69618b295024430f0c013fe2a1619f9",
+      "bytes": 1434
+    },
+    {
+      "path": "sets/infrastructure-03/ai-vision.png",
+      "sha256": "355839cc950eaab7e51cf1b339f06375e3a5b08afce61ffce17f7cfb3bb16552",
+      "bytes": 7992
+    },
+    {
+      "path": "sets/infrastructure-03/ai-vision.svg",
+      "sha256": "d53a42d573e18dc79eb3414ed205ce2863bc913cac3ecdc2e2ed1700232b741e",
+      "bytes": 1332
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-autoscaling.png",
+      "sha256": "462e8d14a81cdfe9734c7f2160a5bdd38021c260e01e6dd9f11847ffa9db4601",
+      "bytes": 5182
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-autoscaling.svg",
+      "sha256": "da67c0018c48e61e9744d73ac03f9d38f1bd71d16c40c7e99bfb3e7752e9cd9e",
+      "bytes": 2299
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-containers.png",
+      "sha256": "3111f2e9d3222ad5272f31ae9825235766a94ed875764de7f5b3caad305ab9f2",
+      "bytes": 4925
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-containers.svg",
+      "sha256": "e5ae533bed5ff34a05cdd7edda31e011763f3e4997572354717459b2248ff1fc",
+      "bytes": 2168
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-monitoring.png",
+      "sha256": "cb7b080ee3191ecf8b8d631289453fd3b279b540cd15c6c0275ecb5ac63f1732",
+      "bytes": 7286
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-monitoring.svg",
+      "sha256": "eb2230d08a12a089955d8ff37d966d3613c5ad6c7760d9d67488fc4de141fd1d",
+      "bytes": 1607
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-recovery.png",
+      "sha256": "05f406aa2b3bb6a8194552343dbabb63f8ba295ef94e2a4808c7cc86a8ce8d4c",
+      "bytes": 5817
+    },
+    {
+      "path": "sets/infrastructure-03/cloud-recovery.svg",
+      "sha256": "4efbc4d640bc8423a7b8c5ad259686727a9ec3b52b49b3a09b43e87cfb62f162",
+      "bytes": 1440
+    },
+    {
+      "path": "sets/infrastructure-03/device-encryption.png",
+      "sha256": "0fdffa0f0cf5357453416ce99293a4116559ca081e482de8ba49dfbd9cd6915f",
+      "bytes": 3315
+    },
+    {
+      "path": "sets/infrastructure-03/device-encryption.svg",
+      "sha256": "830f1a329298782c9777d4b7b3ec37c09757cc81cc5a321ad40c84cf45bf6b74",
+      "bytes": 1888
+    },
+    {
+      "path": "sets/infrastructure-03/device-enrollment.png",
+      "sha256": "644f93808eb6d199d445c58c9946040a03bd68446fcab0dce82427776e46a0e6",
+      "bytes": 4816
+    },
+    {
+      "path": "sets/infrastructure-03/device-enrollment.svg",
+      "sha256": "fd074701c14cb904511aa0e89a555d0acd00f1391943e7122baf2da415c21d63",
+      "bytes": 1556
+    },
+    {
+      "path": "sets/infrastructure-03/device-lifecycle.png",
+      "sha256": "31311ecbe6ac62b84ca5996e93ad9eb44e0a03535084788323a4230957a546e5",
+      "bytes": 5501
+    },
+    {
+      "path": "sets/infrastructure-03/device-lifecycle.svg",
+      "sha256": "fdf54c2cb96ede216f96e4e81a56d67079e7a0f175900bac54540a4f006e08bc",
+      "bytes": 1515
+    },
+    {
+      "path": "sets/infrastructure-03/device-policy.png",
+      "sha256": "477b054ec2a763d7801ef4c08187dc28f2f1a3064048eadc20c416f319b7697c",
+      "bytes": 3673
+    },
+    {
+      "path": "sets/infrastructure-03/device-policy.svg",
+      "sha256": "9fea90e778e5a1b747a9628aad3e9c1977c25f8c8bacf647ea0c881ef39fa349",
+      "bytes": 1369
+    },
+    {
+      "path": "sets/infrastructure-03/infrastructure-icons-set3-preview.png",
+      "sha256": "ba65af857bfb7943288e39232e1caf3c32900ae6ff5d2fb4faefdfa239b82d43",
+      "bytes": 199353
+    },
+    {
+      "path": "sets/infrastructure-03/network-dns.png",
+      "sha256": "72403d8b8b09a7f488c965fd8a62ad02c9176d89fa8069cab78b6bf469cd6764",
+      "bytes": 3704
+    },
+    {
+      "path": "sets/infrastructure-03/network-dns.svg",
+      "sha256": "4ce94f332b8c69f88acf55fa05d060afb09f1dda1010dfbe0846e885a986754b",
+      "bytes": 1813
+    },
+    {
+      "path": "sets/infrastructure-03/network-gateway.png",
+      "sha256": "3d0c920a97850adc618c0dcdb007fdc88889f4843f431f53ac2827fddb69cc31",
+      "bytes": 2400
+    },
+    {
+      "path": "sets/infrastructure-03/network-gateway.svg",
+      "sha256": "13fe99c6f8fe881d006ffc0a83cba0155682c725d8a8b67bde0babeba3cc663b",
+      "bytes": 1433
+    },
+    {
+      "path": "sets/infrastructure-03/network-latency.png",
+      "sha256": "12d4469819c17d0a7aaf048c093d7735ad23011d2976c24213cda3faa3e42b26",
+      "bytes": 7443
+    },
+    {
+      "path": "sets/infrastructure-03/network-latency.svg",
+      "sha256": "ee0fd3a91ce8bc21aa365cf34881bdc72734ce4458ab19b6c2f2739b10f529f3",
+      "bytes": 1438
+    },
+    {
+      "path": "sets/infrastructure-03/network-routing.png",
+      "sha256": "e35d46f69d94fd714577764db9e3448e9a5bb00518044eaf6445a47bb6373650",
+      "bytes": 3517
+    },
+    {
+      "path": "sets/infrastructure-03/network-routing.svg",
+      "sha256": "0718702c620058ce3b1967ae48952ad69baaa0019738e3820ddcc2f6c982bf01",
+      "bytes": 1536
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-features.png",
+      "sha256": "6951509f5a96f9710350ac104d8e7e88b083bdc81b80eb26bf8892853230d444",
+      "bytes": 1597
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-features.svg",
+      "sha256": "83d4efdd6520c9144a7edc96d77ed4a2401ca3cd8e64829dd83fe55ce918dfaa",
+      "bytes": 1601
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-outcome.png",
+      "sha256": "47b7999100a9d43d731e67b2c262bec788ffdd19c0a69a1ca60a005295b7a284",
+      "bytes": 6227
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-outcome.svg",
+      "sha256": "37bbb99144ed784de07deff738aebfa4f90442e8d8786d3b9e5d3cd031fc5e05",
+      "bytes": 2538
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-sfida.png",
+      "sha256": "d246e80135e41d9cbfc1470e1f211ac682e86ead854994a307ef73ea4f73c8b6",
+      "bytes": 6653
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-sfida.svg",
+      "sha256": "533859b92a9ca5c25c727a175ddfaf3fbd675111ba769f6d6011072b1d0c7ef8",
+      "bytes": 1555
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1.af",
+      "sha256": "681cb5623a1a45478aad8de6e9b3f76f611e1c8544a09ade64ed7ac3a29583d8",
+      "bytes": 30715
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2-features-checklist.png",
+      "sha256": "bf3f6ff8a7040dc7ac5aed81e7e269b6240d5dcd3287ef0c9364c811cc80d71c",
+      "bytes": 4373
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2-features-checklist.svg",
+      "sha256": "3f810d023c8885d2d9a0a04b8fe1471cd0efe88014b40be977d973fec971d9b4",
+      "bytes": 2159
+    },
+    {
+      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2.af",
+      "sha256": "86deca44a7fae0859f67789fc51c35dff6de8928ada13a023cc0b3c0b90f2c0f",
+      "bytes": 37949
+    },
+    {
+      "path": "sets/section-icons/section-icons-preview.png",
+      "sha256": "79697e66bcf5fc24f3f51cbc5750e47964a945a9a782bc8d6856cc9b590650ee",
+      "bytes": 28732
+    },
+    {
+      "path": "sets/security-lock-magnifier/BitLocker-Key-Monitor-Lock-Magnifier-v1.0.1.af",
+      "sha256": "b9a5049aafe6b601199826982c5a95b9848a57a5515fc6304b80569dc1c04410",
+      "bytes": 35044
+    },
+    {
+      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-01-outline-navy.svg",
+      "sha256": "4ee77ad6aae10a52ac7478bb8f8b738ccee7994af2869b64048f9015fc48ec0a",
+      "bytes": 2080
+    },
+    {
+      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-02-outline-azure.svg",
+      "sha256": "8c7d73a2d97e1c53e7697ec618e76b4626c1de7d365a9fe9d9befadc7b921505",
+      "bytes": 2198
+    },
+    {
+      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-03-solid-azure.svg",
+      "sha256": "323d3eb7ea5deb7a2690cec5b5f8971848420e1c2ccb4fc1dbe97eeca2666e3e",
+      "bytes": 1965
+    },
+    {
+      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-04-solid-monochrome.svg",
+      "sha256": "a07795d7281e69e06f1a5f41d9a2d4aae93049150410b413bfe9455d0365ef71",
+      "bytes": 2007
+    },
+    {
+      "path": "sets/security-solid-azure/BitLocker-Key-Monitor-Solid-Azure-Exports-v1.1.2.af",
+      "sha256": "2d0de9d41ebe16859eb8811e59c7cfb2f540fc3b042288eb6d2dd82631ed6f12",
+      "bytes": 34391
+    },
+    {
+      "path": "sets/security-solid-azure/BitLocker-Key-Monitor-Solid-Azure-Exports-v1.1.3.af",
+      "sha256": "33a70744d9f742b55d728cd773d11be761c3bbfd44d2254d6800d8f8fc540d15",
+      "bytes": 40844
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-128.png",
+      "sha256": "b5ff97824926a8190b7b6bf55fd7a79213b7899e98f4431a64b75ab6fe83c9f1",
+      "bytes": 4922
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-16.png",
+      "sha256": "9669e8ad25a788d00b74d2683df5f805d164fcb577c733cb28bcfba925cf1876",
+      "bytes": 965
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-256.png",
+      "sha256": "1e728e50c5b852de8d1de8ece3b9a9e28af9c754eb967e6bd8bc0bc99984bb2b",
+      "bytes": 9766
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-32.png",
+      "sha256": "ddcb32a13dcc68d87a0a390995a6e521940e9dd685e4facaaefd004392ff7d40",
+      "bytes": 1573
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-48.png",
+      "sha256": "05aa6e2c1f8a0d21968fb5fc18a2eb40d3ad553b79163cb4935d2440e0fcc798",
+      "bytes": 2233
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-64.png",
+      "sha256": "76240e404faa28f6be3f2891ddae1af81e5e8a2ec5f894b64789fab42edb46a5",
+      "bytes": 2709
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon.ico",
+      "sha256": "24380970c41b405de147c4c52b10d73648349bbff8d360fd180b469c5dc5fecd",
+      "bytes": 109037
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon.svg",
+      "sha256": "2106f91efe6084708e16f3a432fb43c62ee3be5ea93a00c0535dbeea32d921b2",
+      "bytes": 2298
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-256.png",
+      "sha256": "b22492d9cf6b0dcb2323c7c810c7b134a12674fae4228874cd06c8ef236ed32d",
+      "bytes": 6184
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-32.png",
+      "sha256": "a1bd209e569f1215915a69f4adfe1f2c8776652f8b079abfb5449198d44c314c",
+      "bytes": 1142
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-40.png",
+      "sha256": "c563e94d99417b6c9eb367a9d8c52e35ebfe340bb568d31b7b3c88373eb788cd",
+      "bytes": 1366
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-48.png",
+      "sha256": "5ded75d0ca440986b5e2465176c6a300479694d6a90a7cdba650f0e193d8e1e5",
+      "bytes": 1636
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-512.png",
+      "sha256": "0d3c1cf19c621d295ce9a18e9b4319c9d0159e9fe2a984680946a7b7ce94f0ba",
+      "bytes": 12978
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-64.png",
+      "sha256": "b3bde581ee93eefbc1672a10a8f929c426407aebb92df89cdf6ff44a519331a8",
+      "bytes": 1883
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-256.png",
+      "sha256": "af965de0dbdeb5354c8913b8e9a72d7f834ab5366d84656712a5691d4e8ff251",
+      "bytes": 6166
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-32.png",
+      "sha256": "fedf1c775df23d9d66cac4283d579c9b10f0c6970d760c1d2fd5512e277934f9",
+      "bytes": 1132
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-40.png",
+      "sha256": "17f160129352c097cdc8816ed8cb8ac4dc4ac84b7954bbdb478c98602ec3e20c",
+      "bytes": 1354
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-48.png",
+      "sha256": "8617fbc082fd7c9d424c810648be9ee6de26213faaf8d8aed591599236219522",
+      "bytes": 1610
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-512.png",
+      "sha256": "4a19cc49fb714e9daba28265fd138db5a717001e7f40752d2e97ece687e7b142",
+      "bytes": 12940
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-64.png",
+      "sha256": "50894f1abf87355b173a084c52af8eeaf43fb550212248ff35ec3c7df50fe0a2",
+      "bytes": 1862
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark.svg",
+      "sha256": "e5bcf69ba46aab28cf9d30a0230f1bb939ad3e3e6d5547c97e12910bd7902517",
+      "bytes": 2020
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-256.png",
+      "sha256": "97e192e14339c5b23db163b4ea759bf0dba3f46f0010f9bc602f0aa676009b53",
+      "bytes": 5993
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-32.png",
+      "sha256": "f82d2c1ed11ef2b39af4f6ddb510c607fc9345c3ba5d20a873f9fc4c1af671d2",
+      "bytes": 1118
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-40.png",
+      "sha256": "045bd8d4ddd9c8b1960754c6048b4f299b2ca8629f6d12abd6935b2ba752ee39",
+      "bytes": 1315
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-48.png",
+      "sha256": "c54b9ff363bffd2cf4997eae67830d785fb4200cefdff2c2c701d872cb7292eb",
+      "bytes": 1540
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-512.png",
+      "sha256": "3ad16af77ed3ec382e07e3feb4ac61255ab2e02cc1e45c121e50a4c2be2cfda7",
+      "bytes": 12891
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-64.png",
+      "sha256": "b061a3e582bab0a4cfcca010a2d2c8db26b013040f0ab6a3c3acdfec60925d2f",
+      "bytes": 1804
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white.svg",
+      "sha256": "963268c1afedcb55c5dbaffdd02ca77aab18fc1f18ced161476278cf6dc77657",
+      "bytes": 2079
+    },
+    {
+      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon.svg",
+      "sha256": "5ee604236a73eadca81b82456f23fff1bd5390e963303eba62dd791e1117a83a",
+      "bytes": 1899
+    },
+    {
+      "path": "sets/security-solid-azure/solid-azure-usage-preview.png",
+      "sha256": "e665b4df62f5d3b5c5ab9d1f50c0dc54f525b7c661076249d96a9c62096c3928",
+      "bytes": 188373
+    }
+  ]
+}

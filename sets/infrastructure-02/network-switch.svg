@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-320)">
+        <rect id="_05---Network---Switch" affinity:id="05 - Network / Switch" x="0" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_05---Network---Switch1" affinity:id="05 - Network / Switch">
+            <path id="Network-switch-chassis" affinity:id="Network switch chassis" d="M40,412L216,412C222.627,412 228,417.373 228,424L228,494C228,500.627 222.627,506 216,506L40,506C33.373,506 28,500.627 28,494L28,424C28,417.373 33.373,412 40,412Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Switch-ports" affinity:id="Switch ports" d="M52,439L68,439C70.209,439 72,440.791 72,443L72,467C72,469.209 70.209,471 68,471L52,471C49.791,471 48,469.209 48,467L48,443C48,440.791 49.791,439 52,439ZM98,439L114,439C116.209,439 118,440.791 118,443L118,467C118,469.209 116.209,471 114,471L98,471C95.791,471 94,469.209 94,467L94,443C94,440.791 95.791,439 98,439ZM144,439L160,439C162.209,439 164,440.791 164,443L164,467C164,469.209 162.209,471 160,471L144,471C141.791,471 140,469.209 140,467L140,443C140,440.791 141.791,439 144,439ZM190,439L206,439C208.209,439 210,440.791 210,443L210,467C210,469.209 208.209,471 206,471L190,471C187.791,471 186,469.209 186,467L186,443C186,440.791 187.791,439 190,439Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Switch-uplink" affinity:id="Switch uplink" d="M128,412L128,368M112,384L128,368L144,384" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Switch-status-indicators" affinity:id="Switch status indicators" d="M60,486C62.208,486 64,487.792 64,490C64,492.208 62.208,494 60,494C57.792,494 56,492.208 56,490C56,487.792 57.792,486 60,486ZM106,486C108.208,486 110,487.792 110,490C110,492.208 108.208,494 106,494C103.792,494 102,492.208 102,490C102,487.792 103.792,486 106,486ZM152,486C154.208,486 156,487.792 156,490C156,492.208 154.208,494 152,494C149.792,494 148,492.208 148,490C148,487.792 149.792,486 152,486ZM198,486C200.208,486 202,487.792 202,490C202,492.208 200.208,494 198,494C195.792,494 194,492.208 194,490C194,487.792 195.792,486 198,486Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-640)">
+        <rect id="_12---Cloud---Multi-region" affinity:id="12 - Cloud / Multi-region" x="960" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_12---Cloud---Multi-region1" affinity:id="12 - Cloud / Multi-region">
+            <path id="Cloud-region-A" affinity:id="Cloud region A" d="M1004.45,728.92L1073.88,728.92C1086.6,728.92 1092.96,721.5 1092.96,711.43C1092.96,700.3 1083.95,692.35 1072.82,692.88C1069.11,676.98 1056.92,668.5 1043.67,668.5C1028.3,668.5 1016.64,679.1 1013.99,692.88C999.15,688.64 982.72,696.59 982.72,711.96C982.72,722.03 992.26,728.92 1004.45,728.92Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Cloud-region-B" affinity:id="Cloud region B" d="M1105.45,850.92L1174.88,850.92C1187.6,850.92 1193.96,843.5 1193.96,833.43C1193.96,822.3 1184.95,814.35 1173.82,814.88C1170.11,798.98 1157.92,790.5 1144.67,790.5C1129.3,790.5 1117.64,801.1 1114.99,814.88C1100.15,810.64 1083.72,818.59 1083.72,833.96C1083.72,844.03 1093.26,850.92 1105.45,850.92Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Region-A-to-B-replication" affinity:id="Region A to B replication" d="M1119,718L1164,718L1164,772M1150,758L1164,772L1178,758" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Region-B-to-A-replication" affinity:id="Region B to A replication" d="M1060,847L1012,847L1012,768M998,782L1012,768L1026,782" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

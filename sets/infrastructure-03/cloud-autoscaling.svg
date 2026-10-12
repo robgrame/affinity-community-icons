@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-640)">
+        <rect id="_10---Cloud---Autoscaling" affinity:id="10 - Cloud / Autoscaling" x="320" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_10---Cloud---Autoscaling1" affinity:id="10 - Cloud / Autoscaling">
+            <path id="Autoscaling-cloud" affinity:id="Autoscaling cloud" d="M409.3,741.68L490.52,741.68C505.4,741.68 512.84,733 512.84,721.22C512.84,708.2 502.3,698.9 489.28,699.52C484.94,680.92 470.68,671 455.18,671C437.2,671 423.56,683.4 420.46,699.52C403.1,694.56 383.88,703.86 383.88,721.84C383.88,733.62 395.04,741.68 409.3,741.68Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Capacity-baseline" affinity:id="Capacity baseline" d="M367,787L401,787C404.866,787 408,790.134 408,794L408,846C408,849.866 404.866,853 401,853L367,853C363.134,853 360,849.866 360,846L360,794C360,790.134 363.134,787 367,787ZM431,787L465,787C468.866,787 472,790.134 472,794L472,846C472,849.866 468.866,853 465,853L431,853C427.134,853 424,849.866 424,846L424,794C424,790.134 427.134,787 431,787Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Added-capacity" affinity:id="Added capacity" d="M495,787L529,787C532.866,787 536,790.134 536,794L536,846C536,849.866 532.866,853 529,853L495,853C491.134,853 488,849.866 488,846L488,794C488,790.134 491.134,787 495,787Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Scale-out-direction" affinity:id="Scale-out direction" d="M396,761L520,761M507,748L520,761L507,774" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Added-instance" affinity:id="Added instance" d="M501,820L523,820M512,809L512,831" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

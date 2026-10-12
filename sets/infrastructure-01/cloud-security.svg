@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-640)">
+        <rect id="_11---Cloud---Security" affinity:id="11 - Cloud / Security" x="640" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_11---Cloud---Security1" affinity:id="11 - Cloud / Security">
+            <path id="Secure-cloud-outline" affinity:id="Secure cloud outline" d="M705,804L836,804C860,804 872,790 872,771C872,750 855,735 834,736C827,706 804,690 779,690C750,690 728,710 723,736C695,728 664,743 664,772C664,791 682,804 705,804Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Cloud-security-shield" affinity:id="Cloud security shield" d="M768,721L799,731.8L799,754.12C799,771.4 782.88,784.36 768,793C753.12,784.36 737,771.4 737,754.12L737,731.8L768,721Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Cloud-security-check" affinity:id="Cloud security check" d="M752,756L763,767L785,745" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-640)">
+        <rect id="_10---Cloud---Backup" affinity:id="10 - Cloud / Backup" x="320" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_10---Cloud---Backup1" affinity:id="10 - Cloud / Backup">
+            <path id="Backup-cloud" affinity:id="Backup cloud" d="M385,804L516,804C540,804 552,790 552,771C552,750 535,735 514,736C507,706 484,690 459,690C430,690 408,710 403,736C375,728 344,743 344,772C344,791 362,804 385,804Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <circle id="Backup-history-clock" affinity:id="Backup history clock" cx="448" cy="753" r="31" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Backup-time" affinity:id="Backup time" d="M448,734L448,753L466,762" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Backup-recovery-direction" affinity:id="Backup recovery direction" d="M392,838L504,838M409,821L392,838L409,855" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

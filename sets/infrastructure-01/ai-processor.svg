@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-960)">
+        <rect id="_13---AI---Processor" affinity:id="13 - AI / Processor" x="0" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_13---AI---Processor1" affinity:id="13 - AI / Processor">
+            <path id="AI-processor-package" affinity:id="AI processor package" d="M76,1022L180,1022C187.732,1022 194,1028.268 194,1036L194,1140C194,1147.732 187.732,1154 180,1154L76,1154C68.268,1154 62,1147.732 62,1140L62,1036C62,1028.268 68.268,1022 76,1022Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Processor-pins" affinity:id="Processor pins" d="M92,1000L92,1022M92,1154L92,1176M40,1052L62,1052M194,1052L216,1052M128,1000L128,1022M128,1154L128,1176M40,1088L62,1088M194,1088L216,1088M164,1000L164,1022M164,1154L164,1176M40,1124L62,1124M194,1124L216,1124" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Intelligence-spark" affinity:id="Intelligence spark" d="M128,1050L138.26,1077.74L166,1088L138.26,1098.26L128,1126L117.74,1098.26L90,1088L117.74,1077.74L128,1050Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

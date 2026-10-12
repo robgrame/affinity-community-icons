@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-640)">
+        <rect id="_11---Cloud---Monitoring" affinity:id="11 - Cloud / Monitoring" x="640" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_11---Cloud---Monitoring1" affinity:id="11 - Cloud / Monitoring">
+            <path id="Cloud-monitoring-outline" affinity:id="Cloud monitoring outline" d="M705,804L836,804C860,804 872,790 872,771C872,750 855,735 834,736C827,706 804,690 779,690C750,690 728,710 723,736C695,728 664,743 664,772C664,791 682,804 705,804Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Cloud-telemetry-signal" affinity:id="Cloud telemetry signal" d="M705,766L727,766L745,732L765,785L785,753L799,766L830,766" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Telemetry-uplink" affinity:id="Telemetry uplink" d="M768,804L768,836" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <circle id="Telemetry-indicator" affinity:id="Telemetry indicator" cx="768" cy="850" r="10" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

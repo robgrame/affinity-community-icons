@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-960)">
+        <rect id="_15---AI---Assistant" affinity:id="15 - AI / Assistant" x="640" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_15---AI---Assistant1" affinity:id="15 - AI / Assistant">
+            <path id="AI-assistant-conversation" affinity:id="AI assistant conversation" d="M698,1008L838,1008C847.941,1008 856,1016.059 856,1026L856,1124C856,1133.941 847.941,1142 838,1142L742,1142L700,1174L700,1142L698,1142C688.059,1142 680,1133.941 680,1124L680,1026C680,1016.059 688.059,1008 698,1008Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Assistant-intelligence" affinity:id="Assistant intelligence" d="M768,1038L776.64,1061.36L800,1070L776.64,1078.64L768,1102L759.36,1078.64L736,1070L759.36,1061.36L768,1038Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Assistant-response-dots" affinity:id="Assistant response dots" d="M741,1113C743.208,1113 745,1114.792 745,1117C745,1119.208 743.208,1121 741,1121C738.792,1121 737,1119.208 737,1117C737,1114.792 738.792,1113 741,1113ZM768,1113C770.208,1113 772,1114.792 772,1117C772,1119.208 770.208,1121 768,1121C765.792,1121 764,1119.208 764,1117C764,1114.792 765.792,1113 768,1113ZM795,1113C797.208,1113 799,1114.792 799,1117C799,1119.208 797.208,1121 795,1121C792.792,1121 791,1119.208 791,1117C791,1114.792 792.792,1113 795,1113Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

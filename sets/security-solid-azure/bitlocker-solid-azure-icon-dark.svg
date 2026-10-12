@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="_02---Portal---Dark-background" affinity:id="02 - Portal / Dark background" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_02---Portal---Dark-background1" affinity:id="02 - Portal / Dark background">
+            <path id="Lock---Shackle" affinity:id="Lock - Shackle" d="M368,84L368,60C368,6 448,6 448,60L448,84L434,84L434,60C434,25 382,25 382,60L382,84L368,84Z" style="fill:rgb(226,232,240);"/>
+            <path id="Lock---Solid-body---transparent-keyhole" affinity:id="Lock - Solid body / transparent keyhole" d="M368,84L450,84C461,84 470,93 470,104L470,110C441,113 418,137 418,166C418,180 423,194 432,204L368,204C357,204 348,195 348,184L348,104C348,93 357,84 368,84ZM402,131C396,131 391,136 391,142C391,147 394,151 397,152L395,165C395,168 409,168 409,165L407,152C410,151 413,147 413,142C413,136 408,131 402,131Z" style="fill:rgb(226,232,240);"/>
+            <path id="Magnifier---Handle" affinity:id="Magnifier - Handle" d="M501,197L532,228C535,231 540,231 543,228C546,225 546,220 543,217L512,186L501,197Z" style="fill:rgb(0,120,212);"/>
+            <path id="Magnifier---Transparent-lens" affinity:id="Magnifier - Transparent lens" d="M521,166C521,190.853 500.853,211 476,211C451.147,211 431,190.853 431,166C431,141.147 451.147,121 476,121C500.853,121 521,141.147 521,166ZM507,166C507,148.879 493.121,135 476,135C458.879,135 445,148.879 445,166C445,183.121 458.879,197 476,197C493.121,197 507,183.121 507,166Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

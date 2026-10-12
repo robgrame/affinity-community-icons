@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-640)">
+        <rect id="_09---Cloud---Services" affinity:id="09 - Cloud / Services" x="0" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_09---Cloud---Services1" affinity:id="09 - Cloud / Services">
+            <path id="Cloud-services-outline" affinity:id="Cloud services outline" d="M65,804L196,804C220,804 232,790 232,771C232,750 215,735 194,736C187,706 164,690 139,690C110,690 88,710 83,736C55,728 24,743 24,772C24,791 42,804 65,804Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Service-node-connectors" affinity:id="Service node connectors" d="M80,804L80,834M128,804L128,834M176,804L176,834" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Cloud-service-endpoints" affinity:id="Cloud service endpoints" d="M80,836C85.519,836 90,840.481 90,846C90,851.519 85.519,856 80,856C74.481,856 70,851.519 70,846C70,840.481 74.481,836 80,836ZM128,836C133.519,836 138,840.481 138,846C138,851.519 133.519,856 128,856C122.481,856 118,851.519 118,846C118,840.481 122.481,836 128,836ZM176,836C181.519,836 186,840.481 186,846C186,851.519 181.519,856 176,856C170.481,856 166,851.519 166,846C166,840.481 170.481,836 176,836Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

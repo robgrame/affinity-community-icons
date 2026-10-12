@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="_01---Portal---Light-background" affinity:id="01 - Portal / Light background" x="0" y="0" width="256" height="256" style="fill:none;"/>
+    <g id="_01---Portal---Light-background1" affinity:id="01 - Portal / Light background">
+        <path id="Lock---Shackle" affinity:id="Lock - Shackle" d="M48,84L48,60C48,6 128,6 128,60L128,84L114,84L114,60C114,25 62,25 62,60L62,84L48,84Z" style="fill:rgb(23,42,67);"/>
+        <path id="Lock---Solid-body---transparent-keyhole" affinity:id="Lock - Solid body / transparent keyhole" d="M48,84L130,84C141,84 150,93 150,104L150,110C121,113 98,137 98,166C98,180 103,194 112,204L48,204C37,204 28,195 28,184L28,104C28,93 37,84 48,84ZM82,131C76,131 71,136 71,142C71,147 74,151 77,152L75,165C75,168 89,168 89,165L87,152C90,151 93,147 93,142C93,136 88,131 82,131Z" style="fill:rgb(23,42,67);"/>
+        <path id="Magnifier---Handle" affinity:id="Magnifier - Handle" d="M181,197L212,228C215,231 220,231 223,228C226,225 226,220 223,217L192,186L181,197Z" style="fill:rgb(0,120,212);"/>
+        <path id="Magnifier---Transparent-lens" affinity:id="Magnifier - Transparent lens" d="M201,166C201,190.853 180.853,211 156,211C131.147,211 111,190.853 111,166C111,141.147 131.147,121 156,121C180.853,121 201,141.147 201,166ZM187,166C187,148.879 173.121,135 156,135C138.879,135 125,148.879 125,166C125,183.121 138.879,197 156,197C173.121,197 187,183.121 187,166Z" style="fill:rgb(0,120,212);"/>
+    </g>
+</svg>

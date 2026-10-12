@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,-320)">
+        <rect id="_06---Network---Wireless" affinity:id="06 - Network / Wireless" x="320" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_06---Network---Wireless1" affinity:id="06 - Network / Wireless">
+            <path id="Wireless-router" affinity:id="Wireless router" d="M378,474L518,474C523.523,474 528,478.477 528,484L528,516C528,521.523 523.523,526 518,526L378,526C372.477,526 368,521.523 368,516L368,484C368,478.477 372.477,474 378,474Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Router-antennas" affinity:id="Router antennas" d="M386,474L378,445M510,474L518,445" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Wireless-signal-arcs" affinity:id="Wireless signal arcs" d="M381,390C417,356 479,356 515,390M406,417C428,397 468,397 490,417" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <circle id="Signal-origin" affinity:id="Signal origin" cx="448" cy="439" r="5" style="fill:rgb(0,120,212);"/>
+            <path id="Router-status-lights" affinity:id="Router status lights" d="M396,496C398.208,496 400,497.792 400,500C400,502.208 398.208,504 396,504C393.792,504 392,502.208 392,500C392,497.792 393.792,496 396,496ZM416,496C418.208,496 420,497.792 420,500C420,502.208 418.208,504 416,504C413.792,504 412,502.208 412,500C412,497.792 413.792,496 416,496Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

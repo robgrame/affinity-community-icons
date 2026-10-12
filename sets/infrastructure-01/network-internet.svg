@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-320)">
+        <rect id="_07---Network---Internet" affinity:id="07 - Network / Internet" x="640" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_07---Network---Internet1" affinity:id="07 - Network / Internet">
+            <circle id="Internet-globe" affinity:id="Internet globe" cx="768" cy="448" r="88" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Globe-meridians" affinity:id="Globe meridians" d="M768,360C714,407 714,489 768,536C822,489 822,407 768,360ZM680,448L856,448" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Globe-parallels" affinity:id="Globe parallels" d="M695,400L841,400M695,496L841,496" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

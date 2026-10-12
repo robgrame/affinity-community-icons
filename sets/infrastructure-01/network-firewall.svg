@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-320)">
+        <rect id="_08---Network---Firewall" affinity:id="08 - Network / Firewall" x="960" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_08---Network---Firewall1" affinity:id="08 - Network / Firewall">
+            <path id="Firewall-perimeter" affinity:id="Firewall perimeter" d="M1010,368L1166,368C1171.523,368 1176,372.477 1176,378L1176,518C1176,523.523 1171.523,528 1166,528L1010,528C1004.477,528 1000,523.523 1000,518L1000,378C1000,372.477 1004.477,368 1010,368Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Firewall-brick-rows" affinity:id="Firewall brick rows" d="M1000,408L1176,408M1000,448L1176,448M1000,488L1176,488" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Firewall-brick-seams" affinity:id="Firewall brick seams" d="M1058,368L1058,408M1118,368L1118,408M1088,408L1088,448M1058,448L1058,488M1118,448L1118,488M1088,488L1088,528" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

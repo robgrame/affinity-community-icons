@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-320)">
+        <rect id="_05---Network---DNS" affinity:id="05 - Network / DNS" x="0" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_05---Network---DNS1" affinity:id="05 - Network / DNS">
+            <path id="DNS-name-record" affinity:id="DNS name record" d="M34,367L103,367C107.418,367 111,370.582 111,375L111,427C111,431.418 107.418,435 103,435L34,435C29.582,435 26,431.418 26,427L26,375C26,370.582 29.582,367 34,367ZM44,390L92,390M44,411L76,411" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Resolved-address-endpoint" affinity:id="Resolved address endpoint" d="M153,460L222,460C226.418,460 230,463.582 230,468L230,520C230,524.418 226.418,528 222,528L153,528C148.582,528 145,524.418 145,520L145,468C145,463.582 148.582,460 153,460ZM163,483L211,483M163,505L193,505" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="DNS-lookup-connection" affinity:id="DNS lookup connection" d="M111,401L187,401L187,442M173,428L187,442L201,428" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="DNS-response-connection" affinity:id="DNS response connection" d="M145,493L68,493L68,452M54,466L68,452L82,466" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

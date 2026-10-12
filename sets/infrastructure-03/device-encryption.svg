@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="_02---Device---Encryption" affinity:id="02 - Device / Encryption" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_02---Device---Encryption1" affinity:id="02 - Device / Encryption">
+            <path id="Endpoint-outline" affinity:id="Endpoint outline" d="M366,48L530,48C535.523,48 540,52.477 540,58L540,164C540,169.523 535.523,174 530,174L366,174C360.477,174 356,169.523 356,164L356,58C356,52.477 360.477,48 366,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Endpoint-stand" affinity:id="Endpoint stand" d="M448,174L448,204M414,204L482,204" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Encryption-lock-body" affinity:id="Encryption lock body" d="M426,104L470,104C473.866,104 477,107.134 477,111L477,143C477,146.866 473.866,150 470,150L426,150C422.134,150 419,146.866 419,143L419,111C419,107.134 422.134,104 426,104Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Encryption-shackle" affinity:id="Encryption shackle" d="M430,104L430,88C430,64 466,64 466,88L466,104" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Encryption-key-slot" affinity:id="Encryption key slot" d="M448,122L448,134" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

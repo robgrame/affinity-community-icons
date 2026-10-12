@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-640)">
+        <rect id="_12---Cloud---Hybrid" affinity:id="12 - Cloud / Hybrid" x="960" y="640" width="256" height="256" style="fill:none;"/>
+        <g id="_12---Cloud---Hybrid1" affinity:id="12 - Cloud / Hybrid">
+            <path id="Hybrid-cloud" affinity:id="Hybrid cloud" d="M1045.2,755.52L1134.28,755.52C1150.6,755.52 1158.76,746 1158.76,733.08C1158.76,718.8 1147.2,708.6 1132.92,709.28C1128.16,688.88 1112.52,678 1095.52,678C1075.8,678 1060.84,691.6 1057.44,709.28C1038.4,703.84 1017.32,714.04 1017.32,733.76C1017.32,746.68 1029.56,755.52 1045.2,755.52Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Hybrid-bridge" affinity:id="Hybrid bridge" d="M1088,756L1088,780M1037,780L1139,780M1037,780L1037,799M1139,780L1139,799" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="On-premises-servers" affinity:id="On-premises servers" d="M1016,799L1058,799C1062.418,799 1066,802.582 1066,807L1066,848C1066,852.418 1062.418,856 1058,856L1016,856C1011.582,856 1008,852.418 1008,848L1008,807C1008,802.582 1011.582,799 1016,799ZM1118,799L1160,799C1164.418,799 1168,802.582 1168,807L1168,848C1168,852.418 1164.418,856 1160,856L1118,856C1113.582,856 1110,852.418 1110,848L1110,807C1110,802.582 1113.582,799 1118,799Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Server-rack-dividers" affinity:id="Server rack dividers" d="M1008,827L1066,827M1110,827L1168,827" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Server-status-lights" affinity:id="Server status lights" d="M1024,809C1026.208,809 1028,810.792 1028,813C1028,815.208 1026.208,817 1024,817C1021.792,817 1020,815.208 1020,813C1020,810.792 1021.792,809 1024,809ZM1126,809C1128.208,809 1130,810.792 1130,813C1130,815.208 1128.208,817 1126,817C1123.792,817 1122,815.208 1122,813C1122,810.792 1123.792,809 1126,809Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

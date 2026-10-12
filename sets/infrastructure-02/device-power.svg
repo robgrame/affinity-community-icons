@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,0)">
+        <rect id="_04---Device---Power-management" affinity:id="04 - Device / Power management" x="960" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_04---Device---Power-management1" affinity:id="04 - Device / Power management">
+            <path id="Managed-display" affinity:id="Managed display" d="M1006,48L1170,48C1175.523,48 1180,52.477 1180,58L1180,164C1180,169.523 1175.523,174 1170,174L1006,174C1000.477,174 996,169.523 996,164L996,58C996,52.477 1000.477,48 1006,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Display-stand" affinity:id="Display stand" d="M1088,174L1088,204M1054,204L1122,204" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Power-control" affinity:id="Power control" d="M1064,82C1034,99 1046,146 1088,146C1130,146 1142,99 1112,82M1088,73L1088,112" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

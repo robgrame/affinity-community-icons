@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <rect id="_01---Device---Policy" affinity:id="01 - Device / Policy" x="0" y="0" width="256" height="256" style="fill:none;"/>
+    <g id="_01---Device---Policy1" affinity:id="01 - Device / Policy">
+        <path id="Policy-document" affinity:id="Policy document" d="M68,34L188,34C193.523,34 198,38.477 198,44L198,212C198,217.523 193.523,222 188,222L68,222C62.477,222 58,217.523 58,212L58,44C58,38.477 62.477,34 68,34Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Policy-checked-requirements" affinity:id="Policy checked requirements" d="M80,83L89,92L104,72M80,133L89,142L104,122M80,183L89,192L104,172" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        <path id="Policy-rule-lines" affinity:id="Policy rule lines" d="M122,82L173,82M122,132L173,132M122,182L173,182" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+    </g>
+</svg>

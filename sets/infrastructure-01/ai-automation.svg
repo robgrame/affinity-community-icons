@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-960)">
+        <rect id="_16---AI---Automation" affinity:id="16 - AI / Automation" x="960" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_16---AI---Automation1" affinity:id="16 - AI / Automation">
+            <path id="Automation-gear" affinity:id="Automation gear" d="M1152.672,1061.212L1174.309,1070.832L1174.309,1105.168L1152.672,1114.788L1161.169,1136.89L1136.89,1161.169L1114.788,1152.672L1105.168,1174.309L1070.832,1174.309L1061.212,1152.672L1039.11,1161.169L1014.831,1136.89L1023.328,1114.788L1001.691,1105.168L1001.691,1070.832L1023.328,1061.212L1014.831,1039.11L1039.11,1014.831L1061.212,1023.328L1070.832,1001.691L1105.168,1001.691L1114.788,1023.328L1136.89,1014.831L1161.169,1039.11L1152.672,1061.212Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <circle id="Automation-hub" affinity:id="Automation hub" cx="1088" cy="1088" r="46" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="AI-automation-spark" affinity:id="AI automation spark" d="M1088,1062L1095.02,1080.98L1114,1088L1095.02,1095.02L1088,1114L1080.98,1095.02L1062,1088L1080.98,1080.98L1088,1062Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-960,0)">
+        <rect id="_04---Portal---Pure-white-lock" affinity:id="04 - Portal / Pure white lock" x="960" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_04---Portal---Pure-white-lock1" affinity:id="04 - Portal / Pure white lock">
+            <path id="Lock---Shackle" affinity:id="Lock - Shackle" d="M1008,84L1008,60C1008,6 1088,6 1088,60L1088,84L1074,84L1074,60C1074,25 1022,25 1022,60L1022,84L1008,84Z" style="fill:white;"/>
+            <path id="Lock---Solid-body---transparent-keyhole" affinity:id="Lock - Solid body / transparent keyhole" d="M1008,84L1090,84C1101,84 1110,93 1110,104L1110,110C1081,113 1058,137 1058,166C1058,180 1063,194 1072,204L1008,204C997,204 988,195 988,184L988,104C988,93 997,84 1008,84ZM1042,131C1036,131 1031,136 1031,142C1031,147 1034,151 1037,152L1035,165C1035,168 1049,168 1049,165L1047,152C1050,151 1053,147 1053,142C1053,136 1048,131 1042,131Z" style="fill:white;"/>
+            <path id="Magnifier---Handle" affinity:id="Magnifier - Handle" d="M1141,197L1172,228C1175,231 1180,231 1183,228C1186,225 1186,220 1183,217L1152,186L1141,197Z" style="fill:rgb(0,120,212);"/>
+            <path id="Magnifier---Transparent-lens" affinity:id="Magnifier - Transparent lens" d="M1161,166C1161,190.853 1140.853,211 1116,211C1091.147,211 1071,190.853 1071,166C1071,141.147 1091.147,121 1116,121C1140.853,121 1161,141.147 1161,166ZM1147,166C1147,148.879 1133.121,135 1116,135C1098.879,135 1085,148.879 1085,166C1085,183.121 1098.879,197 1116,197C1133.121,197 1147,183.121 1147,166Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,0,-960)">
+        <rect id="_13---AI---Agents" affinity:id="13 - AI / Agents" x="0" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_13---AI---Agents1" affinity:id="13 - AI / Agents">
+            <path id="AI-agent-head" affinity:id="AI agent head" d="M73,1032L183,1032C192.941,1032 201,1040.059 201,1050L201,1136C201,1145.941 192.941,1154 183,1154L73,1154C63.059,1154 55,1145.941 55,1136L55,1050C55,1040.059 63.059,1032 73,1032Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Agent-antenna" affinity:id="Agent antenna" d="M128,1032L128,1007M128,987C132.415,987 136,990.585 136,995C136,999.415 132.415,1003 128,1003C123.585,1003 120,999.415 120,995C120,990.585 123.585,987 128,987Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Agent-side-terminals" affinity:id="Agent side terminals" d="M55,1076L35,1076L35,1112L55,1112M201,1076L221,1076L221,1112L201,1112" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Agent-eyes" affinity:id="Agent eyes" d="M99,1072C103.967,1072 108,1076.033 108,1081C108,1085.967 103.967,1090 99,1090C94.033,1090 90,1085.967 90,1081C90,1076.033 94.033,1072 99,1072ZM157,1072C161.967,1072 166,1076.033 166,1081C166,1085.967 161.967,1090 157,1090C152.033,1090 148,1085.967 148,1081C148,1076.033 152.033,1072 157,1072Z" style="fill:rgb(0,120,212);"/>
+            <path id="Agent-response" affinity:id="Agent response" d="M100,1123L156,1123" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

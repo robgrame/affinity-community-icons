@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-960)">
+        <rect id="_15---AI---Knowledge" affinity:id="15 - AI / Knowledge" x="640" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_15---AI---Knowledge1" affinity:id="15 - AI / Knowledge">
+            <path id="Knowledge-open-book" affinity:id="Knowledge open book" d="M768,1037L697,1012L672,1024L672,1150L697,1138L768,1163L839,1138L864,1150L864,1024L839,1012L768,1037L768,1163" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Knowledge-page-lines" affinity:id="Knowledge page lines" d="M695,1060L743,1077M695,1093L743,1110" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Knowledge-intelligence" affinity:id="Knowledge intelligence" d="M815,1054L823.1,1075.9L845,1084L823.1,1092.1L815,1114L806.9,1092.1L785,1084L806.9,1075.9L815,1054Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

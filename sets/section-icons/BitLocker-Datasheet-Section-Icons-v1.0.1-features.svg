@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,0)">
+        <rect id="FEATURES" x="640" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="FEATURES1" affinity:id="FEATURES">
+            <path id="Axes" d="M684,44L684,208L860,208" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Bar-1---48-px" affinity:id="Bar 1 - 48 px" d="M713,152L739,152C740.657,152 742,153.343 742,155L742,197C742,198.657 740.657,200 739,200L713,200C711.343,200 710,198.657 710,197L710,155C710,153.343 711.343,152 713,152Z" style="fill:rgb(15,39,65);"/>
+            <path id="Bar-2---96-px" affinity:id="Bar 2 - 96 px" d="M765,104L791,104C792.657,104 794,105.343 794,107L794,197C794,198.657 792.657,200 791,200L765,200C763.343,200 762,198.657 762,197L762,107C762,105.343 763.343,104 765,104Z" style="fill:rgb(15,39,65);"/>
+            <path id="Bar-3---144-px" affinity:id="Bar 3 - 144 px" d="M817,56L843,56C844.657,56 846,57.343 846,59L846,197C846,198.657 844.657,200 843,200L817,200C815.343,200 814,198.657 814,197L814,59C814,57.343 815.343,56 817,56Z" style="fill:rgb(15,39,65);"/>
+        </g>
+    </g>
+</svg>

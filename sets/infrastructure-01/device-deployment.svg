@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,0)">
+        <rect id="_04---Device---Deployment" affinity:id="04 - Device / Deployment" x="960" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_04---Device---Deployment1" affinity:id="04 - Device / Deployment">
+            <path id="Laptop-display" affinity:id="Laptop display" d="M1020,48L1156,48C1160.418,48 1164,51.582 1164,56L1164,162C1164,166.418 1160.418,170 1156,170L1020,170C1015.582,170 1012,166.418 1012,162L1012,56C1012,51.582 1015.582,48 1020,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Laptop-base" affinity:id="Laptop base" d="M1012,170L988,204L1188,204L1164,170" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Deployment-arrow" affinity:id="Deployment arrow" d="M1088,76L1088,140M1064,116L1088,140L1112,116" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Deployment-destination" affinity:id="Deployment destination" d="M1050,148L1126,148" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

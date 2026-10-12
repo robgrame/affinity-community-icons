@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-960)">
+        <rect id="_16---AI---Guardrails" affinity:id="16 - AI / Guardrails" x="960" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_16---AI---Guardrails1" affinity:id="16 - AI / Guardrails">
+            <path id="AI-guardrail-perimeter" affinity:id="AI guardrail perimeter" d="M1088,992L1158,1018L1158,1082C1158,1127 1126,1158 1088,1184C1050,1158 1018,1127 1018,1082L1018,1018L1088,992Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Guarded-intelligence" affinity:id="Guarded intelligence" d="M1088,1043L1096.1,1064.9L1118,1073L1096.1,1081.1L1088,1103L1079.9,1081.1L1058,1073L1079.9,1064.9L1088,1043Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Guardrail-limit" affinity:id="Guardrail limit" d="M1049,1129L1127,1129" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Policy-boundary-posts" affinity:id="Policy boundary posts" d="M1049,1116L1049,1142M1127,1116L1127,1142" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

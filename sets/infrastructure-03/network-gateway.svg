@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,-320)">
+        <rect id="_08---Network---Gateway" affinity:id="08 - Network / Gateway" x="960" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_08---Network---Gateway1" affinity:id="08 - Network / Gateway">
+            <path id="Gateway-frame" affinity:id="Gateway frame" d="M1028,538L1028,369L1148,369L1148,538" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Gateway-portal" affinity:id="Gateway portal" d="M1058,389L1118,389C1122.418,389 1126,392.582 1126,397L1126,510C1126,514.418 1122.418,518 1118,518L1058,518C1053.582,518 1050,514.418 1050,510L1050,397C1050,392.582 1053.582,389 1058,389Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Network-passage" affinity:id="Network passage" d="M988,456L1180,456M1163,439L1180,456L1163,473" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

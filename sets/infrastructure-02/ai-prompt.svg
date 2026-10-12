@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-960)">
+        <rect id="_15---AI---Prompt" affinity:id="15 - AI / Prompt" x="640" y="960" width="256" height="256" style="fill:none;"/>
+        <g id="_15---AI---Prompt1" affinity:id="15 - AI / Prompt">
+            <path id="Prompt-console" affinity:id="Prompt console" d="M684,1010L852,1010C858.627,1010 864,1015.373 864,1022L864,1154C864,1160.627 858.627,1166 852,1166L684,1166C677.373,1166 672,1160.627 672,1154L672,1022C672,1015.373 677.373,1010 684,1010Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Prompt-command-caret" affinity:id="Prompt command caret" d="M701,1050L718,1067L701,1084" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Prompt-input-line" affinity:id="Prompt input line" d="M734,1080L772,1080" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Generated-response-spark" affinity:id="Generated response spark" d="M817,1059L824.29,1078.71L844,1086L824.29,1093.29L817,1113L809.71,1093.29L790,1086L809.71,1078.71L817,1059Z" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Console-output-line" affinity:id="Console output line" d="M700,1124L772,1124" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

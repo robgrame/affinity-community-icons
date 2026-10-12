@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-640,-320)">
+        <rect id="_07---Network---Ethernet" affinity:id="07 - Network / Ethernet" x="640" y="320" width="256" height="256" style="fill:none;"/>
+        <g id="_07---Network---Ethernet1" affinity:id="07 - Network / Ethernet">
+            <path id="Ethernet-plug" affinity:id="Ethernet plug" d="M712,360L824,360C829.523,360 834,364.477 834,370L834,470C834,475.523 829.523,480 824,480L712,480C706.477,480 702,475.523 702,470L702,370C702,364.477 706.477,360 712,360Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Plug-contact-rails" affinity:id="Plug contact rails" d="M726,386L726,423M754,386L754,423M782,386L782,423M810,386L810,423" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Plug-cable-collar" affinity:id="Plug cable collar" d="M740,480L740,502L796,502L796,480" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Ethernet-cable" affinity:id="Ethernet cable" d="M768,502L768,524C768,539 784,540 824,540" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

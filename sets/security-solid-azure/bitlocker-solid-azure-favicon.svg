@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-640,0)">
+        <rect id="_03---Favicon---Theme-safe-tile" affinity:id="03 - Favicon / Theme-safe tile" x="640" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_03---Favicon---Theme-safe-tile1" affinity:id="03 - Favicon / Theme-safe tile">
+            <path id="Favicon---Light-rounded-tile" affinity:id="Favicon - Light rounded tile" d="M688,0L848,0C874.51,0 896,21.49 896,48L896,208C896,234.51 874.51,256 848,256L688,256C661.49,256 640,234.51 640,208L640,48C640,21.49 661.49,0 688,0Z" style="fill:rgb(248,250,252);"/>
+            <path id="Lock---Shackle" affinity:id="Lock - Shackle" d="M688,84L688,60C688,6 768,6 768,60L768,84L754,84L754,60C754,25 702,25 702,60L702,84L688,84Z" style="fill:rgb(23,42,67);"/>
+            <path id="Lock---Solid-body---transparent-keyhole" affinity:id="Lock - Solid body / transparent keyhole" d="M688,84L770,84C781,84 790,93 790,104L790,110C761,113 738,137 738,166C738,180 743,194 752,204L688,204C677,204 668,195 668,184L668,104C668,93 677,84 688,84ZM722,131C716,131 711,136 711,142C711,147 714,151 717,152L715,165C715,168 729,168 729,165L727,152C730,151 733,147 733,142C733,136 728,131 722,131Z" style="fill:rgb(23,42,67);"/>
+            <path id="Magnifier---Handle" affinity:id="Magnifier - Handle" d="M821,197L852,228C855,231 860,231 863,228C866,225 866,220 863,217L832,186L821,197Z" style="fill:rgb(0,120,212);"/>
+            <path id="Magnifier---Transparent-lens" affinity:id="Magnifier - Transparent lens" d="M841,166C841,190.853 820.853,211 796,211C771.147,211 751,190.853 751,166C751,141.147 771.147,121 796,121C820.853,121 841,141.147 841,166ZM827,166C827,148.879 813.121,135 796,135C778.879,135 765,148.879 765,166C765,183.121 778.879,197 796,197C813.121,197 827,183.121 827,166Z" style="fill:rgb(0,120,212);"/>
+        </g>
+    </g>
+</svg>

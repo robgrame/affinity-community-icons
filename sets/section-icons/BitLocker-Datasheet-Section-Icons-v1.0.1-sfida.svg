@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <rect id="SFIDA" x="0" y="0" width="256" height="256" style="fill:none;"/>
+    <g id="SFIDA1" affinity:id="SFIDA">
+        <path id="Shield---outline-only" affinity:id="Shield - outline only" d="M128,28L202,54L202,117C202,165 175,201 128,228C81,201 54,165 54,117L54,54L128,28Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Lock-shackle" affinity:id="Lock shackle" d="M105,119L105,99C105,68 151,68 151,99L151,119" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Lock-body---outline-only" affinity:id="Lock body - outline only" d="M100,119L156,119C159.866,119 163,122.134 163,126L163,167C163,170.866 159.866,174 156,174L100,174C96.134,174 93,170.866 93,167L93,126C93,122.134 96.134,119 100,119Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+        <path id="Keyhole---single-continuous-contour" affinity:id="Keyhole - single continuous contour" d="M125,146L125,156L131,156L131,146C135,144 135,140 132,137C130,135 126,135 124,137C121,140 121,144 125,146Z" style="fill:rgb(15,39,65);"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-320,0)">
+        <rect id="_02---Device---Updates" affinity:id="02 - Device / Updates" x="320" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_02---Device---Updates1" affinity:id="02 - Device / Updates">
+            <path id="Managed-display" affinity:id="Managed display" d="M366,48L530,48C535.523,48 540,52.477 540,58L540,164C540,169.523 535.523,174 530,174L366,174C360.477,174 356,169.523 356,164L356,58C356,52.477 360.477,48 366,48Z" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Display-stand" affinity:id="Display stand" d="M448,174L448,204M414,204L482,204" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Update-cycle---two-directional-arrows" affinity:id="Update cycle - two directional arrows" d="M422,85C442,62 483,76 484,104M474,135C454,158 413,144 412,116M470,92L484,108L498,94M398,126L412,112L426,126" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>

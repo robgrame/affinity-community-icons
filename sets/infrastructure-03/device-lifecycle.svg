@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-960,0)">
+        <rect id="_04---Device---Lifecycle" affinity:id="04 - Device / Lifecycle" x="960" y="0" width="256" height="256" style="fill:none;"/>
+        <g id="_04---Device---Lifecycle1" affinity:id="04 - Device / Lifecycle">
+            <path id="Lifecycle-device" affinity:id="Lifecycle device" d="M1063,76L1113,76C1117.418,76 1121,79.582 1121,84L1121,178C1121,182.418 1117.418,186 1113,186L1063,186C1058.582,186 1055,182.418 1055,178L1055,84C1055,79.582 1058.582,76 1063,76ZM1077,172L1099,172" style="fill:none;stroke:rgb(15,39,65);stroke-width:8px;"/>
+            <path id="Lifecycle-circular-flow" affinity:id="Lifecycle circular flow" d="M1012,133C1000,73 1080,20 1141,61M1164,122C1179,187 1107,231 1044,207" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+            <path id="Lifecycle-arrowheads" affinity:id="Lifecycle arrowheads" d="M1118,62L1143,63L1143,38M1047,183L1042,208L1067,214" style="fill:none;stroke:rgb(0,120,212);stroke-width:8px;"/>
+        </g>
+    </g>
+</svg>
