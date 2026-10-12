@@ -1,13 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "2.0.2",
   "svg_variants": 60,
   "native_documents": 8,
   "files": [
-    {
-      "path": "sets/infrastructure-01/Infrastructure-Device-Network-Cloud-AI-Icons-v1.0.1.af",
-      "sha256": "1cabe67f0aebc4d0136c25b3942791d377ed48e4cdeeedf2cecfb694bf091477",
-      "bytes": 101548
-    },
     {
       "path": "sets/infrastructure-01/ai-assistant.png",
       "sha256": "0a38fd7c7895ace5edea55444d8bfed269dc044cc1b47d07e1c30c7a5a3b1453",
@@ -129,6 +124,11 @@
       "bytes": 1760
     },
     {
+      "path": "sets/infrastructure-01/Infrastructure-Device-Network-Cloud-AI-Icons-v1.0.1.af",
+      "sha256": "1cabe67f0aebc4d0136c25b3942791d377ed48e4cdeeedf2cecfb694bf091477",
+      "bytes": 101548
+    },
+    {
       "path": "sets/infrastructure-01/infrastructure-icons-preview.png",
       "sha256": "2484cec9849b35cbd1d760a423cb26f5c999cf83acafe4b780fa762949798a9f",
       "bytes": 206286
@@ -172,11 +172,6 @@
       "path": "sets/infrastructure-01/network-wireless.svg",
       "sha256": "cc5dc37aae605512f27c76ce3aac910eab9ba513ee4a9c34c519c80b8ef26448",
       "bytes": 1962
-    },
-    {
-      "path": "sets/infrastructure-02/Infrastructure-Device-Network-Cloud-AI-Extended-v1.0.1.af",
-      "sha256": "690ca77322ae244e418f250dcc60425c436745b09dc6567792c301e3018099dc",
-      "bytes": 93239
     },
     {
       "path": "sets/infrastructure-02/ai-data-pipeline.png",
@@ -299,6 +294,11 @@
       "bytes": 1502
     },
     {
+      "path": "sets/infrastructure-02/Infrastructure-Device-Network-Cloud-AI-Extended-v1.0.1.af",
+      "sha256": "690ca77322ae244e418f250dcc60425c436745b09dc6567792c301e3018099dc",
+      "bytes": 93239
+    },
+    {
       "path": "sets/infrastructure-02/infrastructure-icons-extended-preview.png",
       "sha256": "6b44a62d520d46309cee5bf70b60f9275b1a9b8e3f6514162ebd1083f0eacc72",
       "bytes": 204294
@@ -342,11 +342,6 @@
       "path": "sets/infrastructure-02/network-vpn.svg",
       "sha256": "f64f82175935576fa240453e5ad45fb940d257ed9e3921f09469238293d510c1",
       "bytes": 1354
-    },
-    {
-      "path": "sets/infrastructure-03/Infrastructure-Device-Network-Cloud-AI-Set3-v1.0.1.af",
-      "sha256": "f78094e17719e29f868d1360184efcb3ebfc62af7d3669671399287274777bb3",
-      "bytes": 95375
     },
     {
       "path": "sets/infrastructure-03/ai-agents.png",
@@ -469,6 +464,11 @@
       "bytes": 1369
     },
     {
+      "path": "sets/infrastructure-03/Infrastructure-Device-Network-Cloud-AI-Set3-v1.0.1.af",
+      "sha256": "f78094e17719e29f868d1360184efcb3ebfc62af7d3669671399287274777bb3",
+      "bytes": 95375
+    },
+    {
       "path": "sets/infrastructure-03/infrastructure-icons-set3-preview.png",
       "sha256": "ba65af857bfb7943288e39232e1caf3c32900ae6ff5d2fb4faefdfa239b82d43",
       "bytes": 199353
@@ -514,54 +514,44 @@
       "bytes": 1536
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-features.png",
-      "sha256": "6951509f5a96f9710350ac104d8e7e88b083bdc81b80eb26bf8892853230d444",
-      "bytes": 1597
-    },
-    {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-features.svg",
-      "sha256": "83d4efdd6520c9144a7edc96d77ed4a2401ca3cd8e64829dd83fe55ce918dfaa",
-      "bytes": 1601
-    },
-    {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-outcome.png",
-      "sha256": "47b7999100a9d43d731e67b2c262bec788ffdd19c0a69a1ca60a005295b7a284",
-      "bytes": 6227
-    },
-    {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-outcome.svg",
-      "sha256": "37bbb99144ed784de07deff738aebfa4f90442e8d8786d3b9e5d3cd031fc5e05",
-      "bytes": 2538
-    },
-    {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-sfida.png",
+      "path": "sets/section-icons/challenge.png",
       "sha256": "d246e80135e41d9cbfc1470e1f211ac682e86ead854994a307ef73ea4f73c8b6",
       "bytes": 6653
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1-sfida.svg",
+      "path": "sets/section-icons/challenge.svg",
       "sha256": "533859b92a9ca5c25c727a175ddfaf3fbd675111ba769f6d6011072b1d0c7ef8",
       "bytes": 1555
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.0.1.af",
-      "sha256": "681cb5623a1a45478aad8de6e9b3f76f611e1c8544a09ade64ed7ac3a29583d8",
-      "bytes": 30715
+      "path": "sets/section-icons/features-bars.png",
+      "sha256": "6951509f5a96f9710350ac104d8e7e88b083bdc81b80eb26bf8892853230d444",
+      "bytes": 1597
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2-features-checklist.png",
+      "path": "sets/section-icons/features-bars.svg",
+      "sha256": "83d4efdd6520c9144a7edc96d77ed4a2401ca3cd8e64829dd83fe55ce918dfaa",
+      "bytes": 1601
+    },
+    {
+      "path": "sets/section-icons/features-checklist.png",
       "sha256": "bf3f6ff8a7040dc7ac5aed81e7e269b6240d5dcd3287ef0c9364c811cc80d71c",
       "bytes": 4373
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2-features-checklist.svg",
+      "path": "sets/section-icons/features-checklist.svg",
       "sha256": "3f810d023c8885d2d9a0a04b8fe1471cd0efe88014b40be977d973fec971d9b4",
       "bytes": 2159
     },
     {
-      "path": "sets/section-icons/BitLocker-Datasheet-Section-Icons-v1.1.2.af",
-      "sha256": "86deca44a7fae0859f67789fc51c35dff6de8928ada13a023cc0b3c0b90f2c0f",
-      "bytes": 37949
+      "path": "sets/section-icons/outcome.png",
+      "sha256": "47b7999100a9d43d731e67b2c262bec788ffdd19c0a69a1ca60a005295b7a284",
+      "bytes": 6227
+    },
+    {
+      "path": "sets/section-icons/outcome.svg",
+      "sha256": "37bbb99144ed784de07deff738aebfa4f90442e8d8786d3b9e5d3cd031fc5e05",
+      "bytes": 2538
     },
     {
       "path": "sets/section-icons/section-icons-preview.png",
@@ -569,189 +559,199 @@
       "bytes": 28732
     },
     {
-      "path": "sets/security-lock-magnifier/BitLocker-Key-Monitor-Lock-Magnifier-v1.0.1.af",
-      "sha256": "b9a5049aafe6b601199826982c5a95b9848a57a5515fc6304b80569dc1c04410",
-      "bytes": 35044
+      "path": "sets/section-icons/Section-Icons-v1.0.2.af",
+      "sha256": "cca5215b2a9ce99c6503756fa0e228e2a1b169ae166757a806bffe581e862ff4",
+      "bytes": 31076
     },
     {
-      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-01-outline-navy.svg",
+      "path": "sets/section-icons/Section-Icons-v1.1.3.af",
+      "sha256": "559bb1c597d7ae4c313f52a591e2323d50435dbf7e0b38bfc007981c2bdd5327",
+      "bytes": 55034
+    },
+    {
+      "path": "sets/security-lock-magnifier/security-lock-magnifier-01-outline-navy.svg",
       "sha256": "4ee77ad6aae10a52ac7478bb8f8b738ccee7994af2869b64048f9015fc48ec0a",
       "bytes": 2080
     },
     {
-      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-02-outline-azure.svg",
+      "path": "sets/security-lock-magnifier/security-lock-magnifier-02-outline-azure.svg",
       "sha256": "8c7d73a2d97e1c53e7697ec618e76b4626c1de7d365a9fe9d9befadc7b921505",
       "bytes": 2198
     },
     {
-      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-03-solid-azure.svg",
+      "path": "sets/security-lock-magnifier/security-lock-magnifier-03-solid-azure.svg",
       "sha256": "323d3eb7ea5deb7a2690cec5b5f8971848420e1c2ccb4fc1dbe97eeca2666e3e",
       "bytes": 1965
     },
     {
-      "path": "sets/security-lock-magnifier/bitlocker-lock-magnifier-04-solid-monochrome.svg",
+      "path": "sets/security-lock-magnifier/security-lock-magnifier-04-solid-monochrome.svg",
       "sha256": "a07795d7281e69e06f1a5f41d9a2d4aae93049150410b413bfe9455d0365ef71",
       "bytes": 2007
     },
     {
-      "path": "sets/security-solid-azure/BitLocker-Key-Monitor-Solid-Azure-Exports-v1.1.2.af",
-      "sha256": "2d0de9d41ebe16859eb8811e59c7cfb2f540fc3b042288eb6d2dd82631ed6f12",
-      "bytes": 34391
+      "path": "sets/security-lock-magnifier/Security-Lock-Magnifier-v1.0.2.af",
+      "sha256": "329339a5242660816389c528106cde1152af0fb00269b44280ac87fb5cc42262",
+      "bytes": 35201
     },
     {
-      "path": "sets/security-solid-azure/BitLocker-Key-Monitor-Solid-Azure-Exports-v1.1.3.af",
-      "sha256": "33a70744d9f742b55d728cd773d11be761c3bbfd44d2254d6800d8f8fc540d15",
-      "bytes": 40844
+      "path": "sets/security-solid-azure/Security-Solid-Azure-Exports-v1.1.3.af",
+      "sha256": "efc465e7636c9b070b4d6fac037bbd7787145d1f596324be1a0dffae7d851190",
+      "bytes": 34735
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-128.png",
+      "path": "sets/security-solid-azure/Security-Solid-Azure-Exports-v1.1.4.af",
+      "sha256": "74606d6090a0f3d1e5d3c56bc634696769dc2edf069be27ac33a97594e7400e6",
+      "bytes": 58554
+    },
+    {
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-128.png",
       "sha256": "b5ff97824926a8190b7b6bf55fd7a79213b7899e98f4431a64b75ab6fe83c9f1",
       "bytes": 4922
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-16.png",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-16.png",
       "sha256": "9669e8ad25a788d00b74d2683df5f805d164fcb577c733cb28bcfba925cf1876",
       "bytes": 965
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-256.png",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-256.png",
       "sha256": "1e728e50c5b852de8d1de8ece3b9a9e28af9c754eb967e6bd8bc0bc99984bb2b",
       "bytes": 9766
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-32.png",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-32.png",
       "sha256": "ddcb32a13dcc68d87a0a390995a6e521940e9dd685e4facaaefd004392ff7d40",
       "bytes": 1573
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-48.png",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-48.png",
       "sha256": "05aa6e2c1f8a0d21968fb5fc18a2eb40d3ad553b79163cb4935d2440e0fcc798",
       "bytes": 2233
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon-64.png",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon-64.png",
       "sha256": "76240e404faa28f6be3f2891ddae1af81e5e8a2ec5f894b64789fab42edb46a5",
       "bytes": 2709
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon.ico",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon.ico",
       "sha256": "24380970c41b405de147c4c52b10d73648349bbff8d360fd180b469c5dc5fecd",
       "bytes": 109037
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-favicon.svg",
+      "path": "sets/security-solid-azure/security-solid-azure-favicon.svg",
       "sha256": "2106f91efe6084708e16f3a432fb43c62ee3be5ea93a00c0535dbeea32d921b2",
       "bytes": 2298
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-256.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-256.png",
       "sha256": "b22492d9cf6b0dcb2323c7c810c7b134a12674fae4228874cd06c8ef236ed32d",
       "bytes": 6184
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-32.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-32.png",
       "sha256": "a1bd209e569f1215915a69f4adfe1f2c8776652f8b079abfb5449198d44c314c",
       "bytes": 1142
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-40.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-40.png",
       "sha256": "c563e94d99417b6c9eb367a9d8c52e35ebfe340bb568d31b7b3c88373eb788cd",
       "bytes": 1366
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-48.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-48.png",
       "sha256": "5ded75d0ca440986b5e2465176c6a300479694d6a90a7cdba650f0e193d8e1e5",
       "bytes": 1636
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-512.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-512.png",
       "sha256": "0d3c1cf19c621d295ce9a18e9b4319c9d0159e9fe2a984680946a7b7ce94f0ba",
       "bytes": 12978
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-64.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-64.png",
       "sha256": "b3bde581ee93eefbc1672a10a8f929c426407aebb92df89cdf6ff44a519331a8",
       "bytes": 1883
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-256.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-256.png",
       "sha256": "af965de0dbdeb5354c8913b8e9a72d7f834ab5366d84656712a5691d4e8ff251",
       "bytes": 6166
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-32.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-32.png",
       "sha256": "fedf1c775df23d9d66cac4283d579c9b10f0c6970d760c1d2fd5512e277934f9",
       "bytes": 1132
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-40.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-40.png",
       "sha256": "17f160129352c097cdc8816ed8cb8ac4dc4ac84b7954bbdb478c98602ec3e20c",
       "bytes": 1354
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-48.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-48.png",
       "sha256": "8617fbc082fd7c9d424c810648be9ee6de26213faaf8d8aed591599236219522",
       "bytes": 1610
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-512.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-512.png",
       "sha256": "4a19cc49fb714e9daba28265fd138db5a717001e7f40752d2e97ece687e7b142",
       "bytes": 12940
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark-64.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark-64.png",
       "sha256": "50894f1abf87355b173a084c52af8eeaf43fb550212248ff35ec3c7df50fe0a2",
       "bytes": 1862
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-dark.svg",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-dark.svg",
       "sha256": "e5bcf69ba46aab28cf9d30a0230f1bb939ad3e3e6d5547c97e12910bd7902517",
       "bytes": 2020
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-256.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-256.png",
       "sha256": "97e192e14339c5b23db163b4ea759bf0dba3f46f0010f9bc602f0aa676009b53",
       "bytes": 5993
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-32.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-32.png",
       "sha256": "f82d2c1ed11ef2b39af4f6ddb510c607fc9345c3ba5d20a873f9fc4c1af671d2",
       "bytes": 1118
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-40.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-40.png",
       "sha256": "045bd8d4ddd9c8b1960754c6048b4f299b2ca8629f6d12abd6935b2ba752ee39",
       "bytes": 1315
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-48.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-48.png",
       "sha256": "c54b9ff363bffd2cf4997eae67830d785fb4200cefdff2c2c701d872cb7292eb",
       "bytes": 1540
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-512.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-512.png",
       "sha256": "3ad16af77ed3ec382e07e3feb4ac61255ab2e02cc1e45c121e50a4c2be2cfda7",
       "bytes": 12891
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white-64.png",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white-64.png",
       "sha256": "b061a3e582bab0a4cfcca010a2d2c8db26b013040f0ab6a3c3acdfec60925d2f",
       "bytes": 1804
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon-white.svg",
+      "path": "sets/security-solid-azure/security-solid-azure-icon-white.svg",
       "sha256": "963268c1afedcb55c5dbaffdd02ca77aab18fc1f18ced161476278cf6dc77657",
       "bytes": 2079
     },
     {
-      "path": "sets/security-solid-azure/bitlocker-solid-azure-icon.svg",
+      "path": "sets/security-solid-azure/security-solid-azure-icon.svg",
       "sha256": "5ee604236a73eadca81b82456f23fff1bd5390e963303eba62dd791e1117a83a",
       "bytes": 1899
     },
     {
       "path": "sets/security-solid-azure/solid-azure-usage-preview.png",
-      "sha256": "e665b4df62f5d3b5c5ab9d1f50c0dc54f525b7c661076249d96a9c62096c3928",
-      "bytes": 188373
+      "sha256": "87f0c31c0b472d662ab34b4411f7f33581872f93dd110d61fceaa6886c2403f1",
+      "bytes": 59719
     }
   ]
 }

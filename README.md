@@ -4,10 +4,14 @@ Original minimalist vector icons for device management, networking, cloud,
 AI, security, and document sections. Created in Affinity Studio and shared
 with the community under the [Apache License 2.0](LICENSE).
 
-**Version 1.0.1** includes **60 SVG variants**, matching PNG exports where
+**Version 2.0.2** includes **60 SVG variants**, matching PNG exports where
 available, **8 editable Affinity documents**, and preview sheets. The 48
 infrastructure icons are different designs; security entries include color
 and usage variants, not 60 distinct concepts.
+
+> **Not official Azure icons:** Azure-related illustrations in this collection
+> are independent, original conceptual symbols, not Microsoft's official Azure
+> service icons or product logos. They do not imply Microsoft endorsement.
 
 ## Download and use
 
@@ -53,14 +57,14 @@ support SVG. Keep the original proportions and recolor both fills and strokes.
 SFIDA means "challenge"; the shield has an unfilled outline and a centered
 padlock. OUTCOME includes an off-white vector grid. The checklist is the
 preferred FEATURES icon; the original bar chart is retained as an alternative.
-The v1.1.2 native document contains all four artboards; v1.0.1 preserves the
+The v1.1.3 native document contains all four artboards; v1.0.2 preserves the
 first three designs.
 
 ### Security: lock and magnifier
 
 | Navy outline | Azure outline | Solid Azure | Solid monochrome |
 |---|---|---|---|
-| ![Navy outline](sets/security-lock-magnifier/bitlocker-lock-magnifier-01-outline-navy.svg) | ![Azure outline](sets/security-lock-magnifier/bitlocker-lock-magnifier-02-outline-azure.svg) | ![Solid Azure](sets/security-lock-magnifier/bitlocker-lock-magnifier-03-solid-azure.svg) | ![Solid monochrome](sets/security-lock-magnifier/bitlocker-lock-magnifier-04-solid-monochrome.svg) |
+| ![Navy outline](sets/security-lock-magnifier/security-lock-magnifier-01-outline-navy.svg) | ![Azure outline](sets/security-lock-magnifier/security-lock-magnifier-02-outline-azure.svg) | ![Solid Azure](sets/security-lock-magnifier/security-lock-magnifier-03-solid-azure.svg) | ![Solid monochrome](sets/security-lock-magnifier/security-lock-magnifier-04-solid-monochrome.svg) |
 
 ### Security: solid Azure exports
 
@@ -68,7 +72,7 @@ first three designs.
 
 Portal PNG sizes: 32, 40, 48, 64, 256 and 512 px for each light/dark/white
 variant. Favicon PNGs: 16, 32, 48, 64, 128 and 256 px, plus a multi-image ICO.
-The native v1.1.3 document includes the white-lock artboard; v1.1.2 is retained
+The native v1.1.4 document includes the white-lock artboard; v1.1.3 is retained
 as an earlier version.
 
 ## Design
@@ -84,6 +88,40 @@ or font-dependent labels. Preview sheets are raster images with labels.
 The [catalog](catalog.json) records every distributed asset's SHA-256 hash,
 size and relative path for integrity checks.
 
+## Azure service illustrations
+
+Generic cloud concepts are already available; dedicated service-specific
+illustrations are proposed below and **are not included in this release**.
+Any future Azure service illustrations will be original, non-official designs,
+not copies or recolorings of Microsoft's official icons. "Azure blue" in the
+palette describes a color, not official branding or certification.
+
+If an architecture diagram requires the official Microsoft symbols, obtain
+them separately from the
+[official Azure architecture icon collection](https://learn.microsoft.com/en-us/azure/architecture/icons/),
+under Microsoft's applicable terms. They are not distributed in this repository.
+
+## Useful additions: coverage assessment
+
+The existing collections cover broad operational concepts. Additional icons
+would be useful where a diagram needs a specific service, physical device,
+network boundary, or AI workflow rather than another generic cloud symbol.
+The following **40 candidates are proposals, not downloadable assets**.
+
+| Area | Priority | Proposed icons | Gap addressed |
+|---|---|---|---|
+| Azure Services | High | Azure Functions, App Service, AKS, Key Vault, Service Bus, Event Grid, Cosmos DB, Azure SQL | Original, clearly non-official service-specific illustrations for architecture diagrams |
+| Devices | High | Laptop, smartphone, tablet, printer, IoT sensor, edge appliance, docking station, GPU workstation | Distinguish physical device types; current device icons describe management operations |
+| Networking | High | Subnet, private endpoint, VNet peering, network security group, NAT gateway, reverse proxy, packet inspection, SD-WAN | Show boundaries, private connectivity and traffic paths beyond existing routing and firewall concepts |
+| AI | High | Embeddings, vector search, RAG, model evaluation, fine-tuning, dataset curation, content moderation, tool calling | Represent retrieval, quality and model-development stages beyond existing agents and guardrails |
+| Cloud Services | Medium | Compute instance, serverless execution, message queue, event stream, identity provider, secrets service, API gateway, cost management | Provider-neutral compute, integration, identity and governance concepts beyond storage and backup |
+
+Prioritize Devices and Networking for immediate cross-provider usefulness,
+then Azure Services and AI. Add provider-neutral Cloud Services where they
+can be visually distinguished from existing icons. Each future collection
+should use one editable document with one artboard per icon, matching SVG/PNG
+exports and a labeled preview.
+
 ## Contributing
 
 Issues and pull requests are welcome. Include a descriptive icon name, an
@@ -95,15 +133,16 @@ redistribute. Do not include credentials, private documents or personal data.
 Versions use **Major.Minor.Build**. Increment Build for each change, Minor for
 a new collection or significant capability, and Major for breaking changes.
 
-## License and provenance
+## License
 
-These icons were originally created for
-[BitLockerKeyMonitor](https://github.com/robgrame/BitLockerKeyMonitor).
-This repository publishes the original icon assets without the application's
-code, datasheets, architecture documents or certification illustrations.
-The original Apache-2.0 license is preserved; follow its notice and attribution
-requirements when redistributing the artwork.
+The artwork is distributed under the [Apache License 2.0](LICENSE). Follow
+its notice and attribution requirements when redistributing the artwork.
+Copyright and license notices remain applicable independently of asset names.
 
-Product and company names in filenames are descriptive only. No official
-Microsoft, Azure, BitLocker, Affinity or Canva badges are reproduced, and no
-endorsement or trademark rights are granted.
+Asset filenames and native document titles are generic. This release changes
+the filenames; update existing links to the paths in the current catalog.
+The icon geometry is unchanged.
+
+Service and company names are descriptive only. No official Microsoft Azure,
+Affinity or Canva badges are reproduced, and no endorsement or trademark
+rights are granted.
